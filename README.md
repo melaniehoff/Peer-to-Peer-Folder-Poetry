@@ -20,7 +20,7 @@ This workshop assumes no coding experience and simultaneously takes the position
 
 
 ## Resources
-- [](https://www.are.na/melanie-hoff/peer-to-peer-poetry-invisible-cities)
+- [https://www.are.na/melanie-hoff/peer-to-peer-poetry-invisible-cities]()
 
 
 
