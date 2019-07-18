@@ -2,7 +2,7 @@
 
 ## Peer-to-Peer Poetry: Invisible Cities
 
-What if we could create and inhabit a new kind of digital city that transforms our online networks from an ordained protocol to an expressive medium of shared placemaking. In this workshop we will collectively create a peer-to-peer city using the structure of nested folders and DAT. Taking up after Italo Calvino’s Invisible Cities and the common practice of digital organization, through lecture, examples, and hands on making, we will explore folder structures as a new kind of poetic structure and DAT as a way to build digital spaces with and for our networks.
+What if we could create and inhabit a new kind of digital city that transforms our online networks from an ordained protocol to an expressive medium of shared placemaking? In this workshop we will collectively create a peer-to-peer city using the structure of nested folders and DAT. Taking up after Italo Calvino’s Invisible Cities and the common practice of digital organization, through lecture, examples, and hands on making, we will explore folder structures as a new kind of poetic structure and DAT as a way to build digital spaces with and for our networks.
 
 
 This workshop assumes no coding experience and simultaneously takes the position that everyone who interacts with computers in some way is already a programmer.
