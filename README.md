@@ -1,4 +1,4 @@
-![](https://github.com/melaniehoff/Peer-to-Peer-Poetry/blob/master/folder-city.jpg)
+![](https://github.com/melaniehoff/Peer-to-Peer-Poetry/blob/master/folder-cities.jpg)
 
 ## Peer-to-Peer Poetry: Invisible Cities
 
