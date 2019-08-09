@@ -1,6 +1,6 @@
 ![](https://github.com/melaniehoff/Peer-to-Peer-Poetry/blob/master/folder-cities.jpg)
 
-## Peer-to-Peer Poetry: Invisible Cities
+## Peer-to-Peer Folder Poetry
 
 What if we could create and inhabit a new kind of digital city that transforms our online networks from an ordained protocol to an expressive medium of shared placemaking? In this workshop we will collectively create a peer-to-peer city using the structure of nested folders and [DAT](https://dat.foundation/). Taking up after Italo Calvino’s Invisible Cities and the common practice of digital organization, through lecture, examples, and hands on making, we will explore folder structures as a new kind of poetic meter and DAT as a way to build digital spaces with and for our networks.
 
