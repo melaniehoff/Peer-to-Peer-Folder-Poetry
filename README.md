@@ -18,6 +18,28 @@ This workshop assumes no coding experience and simultaneously takes the position
 - To introduce [DAT](https://dat.foundation/) and navigatinh the Command Line with [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 - To create poetry through building a folder-based city on the peer-to-peer web for each other to inhabit during the duration of the workshop and beyond
 
+## Vocabulary
+**Word** | **Definition**
+--- | ---
+folder | (also referred to as directory) is an organizational regime imposed on your computer used to store and organize files and other folders
+file | is an object on a computer which stores data, information, settings, or commands to be used with various computer programs
+file types/formats/extensions | indicate how data has been stored and how to read or open files in specific programs. for example, `.txt` files open in a text editor, `.jpg` files open in an image viewer/editor. full list of file formats and extensions [here](https://en.wikipedia.org/wiki/List_of_file_formats)
+file path | tells you the location of a file in a system. for example `users/username/desktop/folder_poetry_club`
+terminal | is a way to get text based access to your operating system
+terminal commands | give you the ability to control your computer using command prompts. for example, terminal commands on mac computers are written in a language called bash
+bash | is the programming language we use in the terminal, often one line at a time, but we can also put bash code in a file and run that file
+
+## File organization
+- Naming files and folders
+    - All lowercase
+    - No spaces, under scores and dashes are ok (for example, `my_folder` or `my-folder`)
+- File types
+    - `.txt`, `.html`, `.css`, `.js`
+- Mind your file path
+    - `/../../../../../`
+    
+    
+
 
 ## Resources
 - [https://www.are.na/melanie-hoff/peer-to-peer-poetry-invisible-cities]()
