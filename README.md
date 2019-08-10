@@ -2,7 +2,7 @@
 
 ## Peer-to-Peer Folder Poetry
 
-What if we could create and inhabit a new kind of digital city that transforms our online networks from an ordained protocol to an expressive medium of shared placemaking? In this workshop we will collectively create a peer-to-peer city using the structure of nested folders and [DAT](https://dat.foundation/). Taking up after Italo Calvino’s Invisible Cities and the common practice of digital organization, through lecture, examples, and hands on making, we will explore folder structures as a new kind of poetic meter and DAT as a way to build digital spaces with and for our networks.
+What if we could build and live in a new kind of digital city that transforms our online networks from a corporate service to a community-run medium of shared placemaking? In this workshop we will collectively create a peer-to-peer city using the structure of nested folders and [DAT](https://dat.foundation/). Taking up after Italo Calvino’s book of prose, Invisible Cities and the common practice of digital organization, through lecture, examples, and hands on making, we will explore folder structures as a new kind of poetic form and DAT as a way to build digital spaces with and for our networks.
 
 
 This workshop assumes no coding experience and simultaneously takes the position that everyone who interacts with computers in some way is already a programmer.
@@ -15,7 +15,7 @@ This workshop assumes no coding experience and simultaneously takes the position
 
 - To create a space where we are having a conversation with computers and writing poetry with their logic
 - To develop a taste for creating emotive and community centered software.
-- To introduce [DAT](https://dat.foundation/) and navigatinh the Command Line with [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+- To introduce [DAT](https://dat.foundation/) and navigating the Command Line with [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 - To create poetry through building a folder-based city on the peer-to-peer web for each other to inhabit during the duration of the workshop and beyond
 
 ## Vocabulary
