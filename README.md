@@ -21,15 +21,17 @@ This workshop assumes no coding experience and simultaneously takes the position
 ## Vocabulary
 **Word** | **Definition**
 --- | ---
-Folder Poetry| (also referred to as directory) is an organizational regime imposed on your computer used to store and organize files and other folders
+Folder Poetry| A practice of using the structure of computer folder organization as a kind of [poetic form](https://en.wikipedia.org/wiki/Poetry#Forms) like the [haiku](https://en.wikipedia.org/wiki/Haiku) or [iambic pentameter](https://en.wikipedia.org/wiki/Iambic_pentameter).
+terminal | is a way to control and make changes to your operating system by typing text commands
+terminal commands | give you the ability to control your computer using command prompts. for example, terminal commands on many kinds of computers are written in a language called bash
+bash | is the programming language we use in the terminal, often one line at a time, but we can also put bash code in a file and run that file
 Peer-to-Peer | (also referred to as directory) is an organizational regime imposed on your computer used to store and organize files and other folders
+DAT | (also referred to as directory) is an organizational regime imposed on your computer used to store and organize files and other folders
 folder | (also referred to as directory) is an organizational regime imposed on your computer used to store and organize files and other folders
 file | is an object on a computer which stores data, information, settings, or commands to be used with various computer programs
 file types/formats/extensions | indicate how data has been stored and how to read or open files in specific programs. for example, `.txt` files open in a text editor, `.jpg` files open in an image viewer/editor. full list of file formats and extensions [here](https://en.wikipedia.org/wiki/List_of_file_formats)
 file path | tells you the location of a file in a system. for example `users/username/desktop/folder_poetry_club`
-terminal | is a way to get text based access to your operating system
-terminal commands | give you the ability to control your computer using command prompts. for example, terminal commands on mac computers are written in a language called bash
-bash | is the programming language we use in the terminal, often one line at a time, but we can also put bash code in a file and run that file
+
 
 ## File organization
 - Naming files and folders
