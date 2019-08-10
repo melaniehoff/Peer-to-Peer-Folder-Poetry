@@ -25,8 +25,8 @@ Folder Poetry| The practice of using the structure of computer folder organizati
 terminal | A desktop application to control and make changes to your operating system by typing text commands. In this class we'll use the terminal to create folder poetry.
 terminal commands | text commands to control your computer when entered into a command promt like the terminal. The commands we'll learn will be in a language called Bash.
 Bash | is the programming language we use in the terminal, often one line at a time, but we can also put Bash code in a file and run that file.
-Peer-to-Peer | x
-DAT | x
+Peer-to-Peer | Peer-to-peer computing is a way to make distributed networks in which each computer can act as a server for the others, allowing shared access to files without the need for a central server.
+DAT | is a data distribution tool with for publishing on peer-to-peer networks.
 folder | (also referred to as directory) is an organizational regime imposed on your computer used to store and organize files and other folders
 file | is an object on a computer which stores data, information, settings, or commands to be used with various computer programs
 file types/formats/extensions | indicate how data has been stored and how to read or open files in specific programs. for example, `.txt` files open in a text editor, `.jpg` files open in an image viewer/editor. full list of file formats and extensions [here](https://en.wikipedia.org/wiki/List_of_file_formats)
