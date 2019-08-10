@@ -13,10 +13,10 @@ This workshop assumes no coding experience and simultaneously takes the position
 
 ## Session Objectives
 
-- To create a space where we are having a conversation with computers and writing poetry with their logic
-- To develop a taste for creating emotive and community centered software.
+- To create a space where we are getting intimate with computers and writing poetry with their logic
+- To develop a taste for creating emotive and community centered software
 - To introduce [DAT](https://dat.foundation/) and navigating the Command Line with [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
-- To create poetry through building a folder-based city on the peer-to-peer web for each other to inhabit during the duration of the workshop and beyond
+- To create poetry through building a folder-based city on the peer-to-peer web for each other to inhabit
 
 ## Vocabulary
 **Word** | **Definition**
