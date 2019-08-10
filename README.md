@@ -21,6 +21,8 @@ This workshop assumes no coding experience and simultaneously takes the position
 ## Vocabulary
 **Word** | **Definition**
 --- | ---
+Folder Poetry| (also referred to as directory) is an organizational regime imposed on your computer used to store and organize files and other folders
+Peer-to-Peer | (also referred to as directory) is an organizational regime imposed on your computer used to store and organize files and other folders
 folder | (also referred to as directory) is an organizational regime imposed on your computer used to store and organize files and other folders
 file | is an object on a computer which stores data, information, settings, or commands to be used with various computer programs
 file types/formats/extensions | indicate how data has been stored and how to read or open files in specific programs. for example, `.txt` files open in a text editor, `.jpg` files open in an image viewer/editor. full list of file formats and extensions [here](https://en.wikipedia.org/wiki/List_of_file_formats)
