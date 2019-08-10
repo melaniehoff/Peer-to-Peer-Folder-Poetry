@@ -22,9 +22,9 @@ This workshop assumes no coding experience and simultaneously takes the position
 **Word** | **Definition**
 --- | ---
 Folder Poetry| The practice of using the structure of computer folder organization as a new kind of [poetic form](https://en.wikipedia.org/wiki/Poetry#Forms) like the [haiku](https://en.wikipedia.org/wiki/Haiku) or [iambic pentameter](https://en.wikipedia.org/wiki/Iambic_pentameter). By naming and nesting folders and files, we can create unfolding narratives, rythmic prose, and choose-your-own-adventure poetry.
-terminal | A desktop application to control and make changes to your operating system by typing text commands. In this class we'll use the terminal to create folder poetry
-terminal commands | give you the ability to control your computer using command prompts. for example, terminal commands on many kinds of computers are written in a language called bash
-bash | is the programming language we use in the terminal, often one line at a time, but we can also put bash code in a file and run that file
+terminal | A desktop application to control and make changes to your operating system by typing text commands. In this class we'll use the terminal to create folder poetry.
+terminal commands | text commands to control your computer when entered into a command promt like the terminal. The commands we'll learn will be in a language called Bash.
+Bash | is the programming language we use in the terminal, often one line at a time, but we can also put Bash code in a file and run that file.
 Peer-to-Peer | (also referred to as directory) is an organizational regime imposed on your computer used to store and organize files and other folders
 DAT | (also referred to as directory) is an organizational regime imposed on your computer used to store and organize files and other folders
 folder | (also referred to as directory) is an organizational regime imposed on your computer used to store and organize files and other folders
