@@ -43,7 +43,7 @@ file path | tells you the location of a file in a system. for example `users/use
     - `/../../../../../`
     
     
-# Commands, codes, spells
+# To create our folder poetry, we will use Bash in the terminal
 
 ## Bash Commands
 
