@@ -7,9 +7,9 @@ What if we could build and live in a new kind of digital city that transforms ou
 
 This workshop assumes no coding experience and simultaneously takes the position that everyone who interacts with computers in some way is already a programmer.
  
+## Please Review these Resources Before Class
+- [P2P Folder Poetry](https://www.are.na/melanie-hoff/peer-to-peer-folder-poetry)
 
-**_Check out a related workshop I taught recently with SFPC in Detroit called Folder Poetry: [https://github.com/melaniehoff/folderpoetry/](https://github.com/melaniehoff/folderpoetry/blob/master/README.md)_**
-⇢ [folderpoetry.club](http://www.folderpoetry.club)
 
 ## Session Objectives
 
@@ -43,10 +43,13 @@ file path | tells you the location of a file in a system. for example `users/use
     - `/../../../../../`
     
     
+ **_Check out a related workshop I taught recently with SFPC in Detroit called Folder Poetry: [https://github.com/melaniehoff/folderpoetry/](https://github.com/melaniehoff/folderpoetry/blob/master/README.md)_**
+⇢ [folderpoetry.club](http://www.folderpoetry.club)
+    
+    
 
 
-## Resources
-- [https://www.are.na/melanie-hoff/peer-to-peer-poetry-invisible-cities]()
+
 
 
 
