@@ -9,7 +9,7 @@ This workshop assumes no coding experience and simultaneously takes the position
  
 ## Please Review these Resources Before Class
 - [What is DAT and why Peer-to-peer?](https://p2p.newcomputers.group/guides/why-self-host.html)
-- [P2P Folder Poetry](https://www.are.na/melanie-hoff/peer-to-peer-folder-poetry)
+- [P2P Folder Poetry Arena Channel](https://www.are.na/melanie-hoff/peer-to-peer-folder-poetry)
 
 
 ## Session Objectives
