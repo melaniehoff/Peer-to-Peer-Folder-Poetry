@@ -42,7 +42,9 @@ file path | tells you the location of a file in a system. for example `users/use
 - Mind your file path
     - `/../../../../../`
     
+Every time you make a folder or rename a file on your computer, the actions you take through moving your mouse and clicking on buttons, have an equivalent text command in Bash. In fact, even when you do this through a visual interface (called a GUI) text commands are still being fired in the background which eventually compile to binary. Using bash in the terminal is a way to get a little closer to the metal and a little further along in uncovering the mechanics of our most common devices.
     
+
 # To create our folder poetry, we will use Bash in the terminal
 
 ## Bash Commands
