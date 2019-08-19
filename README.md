@@ -1,12 +1,13 @@
 ![](https://github.com/melaniehoff/Peer-to-Peer-Poetry/blob/master/folder-cities.jpg)
 
-## Peer-to-Peer Folder Poetry
+# Peer-to-Peer Folder Poetry
 
 What if we could build and live in a new kind of digital city that transforms our online networks from a corporate-owned service to a community-run medium of shared placemaking? In this workshop we will collectively create a peer-to-peer city using the structure of nested folders and [DAT](https://dat.foundation/). Taking a closer look at the common practice of computer organization using folders and files and taking a page out of Italo Calvino's book, Invisible Cities, we will explore folder structures as a new kind of poetic form and DAT as a way to build digital spaces with and for our networks.
 
 
 This workshop assumes no coding experience and simultaneously takes the position that everyone who interacts with computers in some way is already a programmer.
  
+# Homework
 ## Creative thinking/writing exercise: Write a paragraph about the village and home you would like to imagin living in.
 ### This can take the form of a paragraph, a mind map, or a list. Bring your writing to class tommorrow 
 - your description does not have to be realistic or practical. What would your ideal living environment look like? What is your utopia?
