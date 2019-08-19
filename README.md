@@ -7,6 +7,18 @@ What if we could build and live in a new kind of digital city that transforms ou
 
 This workshop assumes no coding experience and simultaneously takes the position that everyone who interacts with computers in some way is already a programmer.
  
+## Creative thinking/writing exercise: Write a paragraph about the village and home you would like to imagin living in.
+### This can take the form of a paragraph, a mind map, or a list. Bring your writing to class tommorrow 
+- your description does not have to be realistic or practical. What would your ideal living environment look like? What is your utopia?
+- Consider how you would like to share space with others in your environment. How you communicate and care for each other?
+- What kinds of public spaces does your city have and how are they accessed?
+- Be as specific as you can. What kinds of plants and animals live in your village or in your garden at home? What kinds of rooms does your home? What objects and feelings do those rooms have for you? 
+- Consider the ephemeral aspects of your city as much as the physical aspects.
+ - What are the emotional qualities of the spaces in your village?
+ - What is the weather like in your village? 
+ - How are different parts of your village accessed and by whom? 
+
+
 ## Please Review these Resources Before Class
 - [What is DAT and why Peer-to-peer?](https://p2p.newcomputers.group/guides/why-self-host.html)
 - [P2P Folder Poetry Arena Channel](https://www.are.na/melanie-hoff/peer-to-peer-folder-poetry)
