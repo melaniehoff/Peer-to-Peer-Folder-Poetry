@@ -8,12 +8,13 @@ What if we could build and live in a new kind of digital city that transforms ou
 This workshop assumes no coding experience and simultaneously takes the position that everyone who interacts with computers in some way is already a programmer.
  
 # Homework
-### Creative thinking/writing exercise: Write about the village and home you would like to imagine living in. This can take the form of a paragraph, a mind map, or a list. Bring your writing to class to share with each other tommorrow.
-- **your description does not have to be realistic or physically possible at this moment. What would your ideal living environment look like? What is your utopia?**
+### Write about the village and home you would like to imagine living in. This can take the form of a paragraph, a mind map, or a list. Bring your writing to class to share with each other tommorrow.
+- **your description does not have to be realistic or even physically probable. What would your ideal living environment look like? What is your utopia?**
 - **What is your village called?**
-- Consider how you would like to share space with others in your environment. In your village, how do you communicate and care for each other? How are people held?
+- Consider how you would like to share space with others in your environment. 
+ - In your village, how do you communicate and care for each other? How are people held?
 - What kinds of public spaces does your city have and how are they accessed?
-- Be as specific as you can. What kinds of plants and animals live in your village or in your garden at home? What kinds of rooms does your home? What objects and feelings do those rooms contain for you? 
+- **Be as specific as you can.** What kinds of plants and animals live in your village or in your garden at home? What kinds of rooms does your home contain? What objects and feelings do these rooms hold for you? 
 - Consider the ephemeral aspects of your city as much as the physical aspects.
  - What are the emotional qualities of the spaces in your village?
  - What is the weather like in your village? 
