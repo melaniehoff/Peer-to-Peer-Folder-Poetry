@@ -93,8 +93,8 @@ Every time you make a folder or rename a file on your computer, the actions you 
 |-----------------------------------------------------------------------------------|------------------------------------------------------|
 | `open ~/.bash_profile`                                                              | opens your bash profile in a text editor                 |
 | `source ~/.bash_profile`                                                            | reloads your bash profile (for after making changes) |
-| `export PS1="🌸 \h ✸ \w ⇢ "`                                                        | to change your bash prompt                           |
-| `for i in {1..2000}; do printf ' ♡ → ➩ ➪ ➫ ➬ ➭ ➮  '; done;`                      | to make a for loop                            |                   |
+| `export PS1="melanie \h * \w -> "`                                                        | to change your bash prompt                           |
+| `for i in {1..2000}; do printf ' welcome to my village ***  '; done;`                      | to make a for loop                            |                   |
 | `bash myfile.sh`                                                                    | to run a bash file                                   |
 | `curl sfpc.io`                                                                      | prints the html of a website                         |    
     
