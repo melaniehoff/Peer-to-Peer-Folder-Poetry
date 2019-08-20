@@ -70,8 +70,8 @@ Every time you make a folder or rename a file on your computer, the actions you 
 | Command                                                 | Description                               | Verb   |
 |-----------------------------------------|-------------------------------------------|--------|
 | `cd foldername/`                          | change directory                          | move   |
-| `cd`                                      | change directory to you home directory    | move home|
 | `cd ..`                                   | change directory one level back           | return |
+| `cd`                                      | change directory to you home directory    | move home|
 | `ls`                                      | list contents of directory                | look   |
 | `pwd`                                     | parent working directory                  | where  |
 | `open .`                                  | open folder with finder                   | open   |
