@@ -51,12 +51,13 @@ file types/formats/extensions | indicate how data has been stored and how to rea
 file path | tells you the location of a file in a system. for example `users/username/desktop/folder_poetry_club`
 
 
-## File organization
-- Naming files and folders
-    - All lowercase
-    - No spaces, under scores and dashes are ok (for example, `my_folder` or `my-folder`)
-- File types
-    - `.txt`, `.html`, `.css`, `.js`
+## Folder and File Requirements
+- All names lowercase
+- No spaces
+ - dashes are ok (for example, `my-folder`)
+- Every folder needs a file in it OR another folder with a file in it
+- Every file needs an extension
+    - we will primarily be using `.txt` as our file extension
 - Mind your file path
     - `/../../../../../`
     
