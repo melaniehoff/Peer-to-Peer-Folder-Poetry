@@ -136,7 +136,7 @@ Every time you make a folder or rename a file on your computer, the actions you 
   3. `dat share` _this starts serving your folder on the P2P web_
   4. minimize this window so you dont touch it. Your folder will only be sharing as long as this terminal window is active and dat share-ing.
   
-
+>"Dat is a p2p protocol that enables people to publish content and information to the web from their personal computers. This fundamentally changes the relationship people have to the internet by breaking the client server hierarchy and opens the realm of self publishing to everyone." - [New Computers Working Group](https://p2p.newcomputers.group/guides/why-self-host.html)
  
 ## Notes on why we're using a spacial and narrative metaphors for learning bash and creating folder poetry
 
