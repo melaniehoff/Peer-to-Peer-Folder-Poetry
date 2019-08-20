@@ -69,7 +69,8 @@ Every time you make a folder or rename a file on your computer, the actions you 
 
 | Command                                                 | Description                               | Verb   |
 |-----------------------------------------|-------------------------------------------|--------|
-| `cd`                                      | change directory                          | move   |
+| `cd foldername/`                          | change directory                          | move   |
+| `cd`                                      | change directory to you home directory    | move home|
 | `cd ..`                                   | change directory one level back           | return |
 | `ls`                                      | list contents of directory                | look   |
 | `pwd`                                     | parent working directory                  | where  |
@@ -83,6 +84,7 @@ Every time you make a folder or rename a file on your computer, the actions you 
 | `cp filename.txt filename2.txt`           | copy file .                               | copy   |
 | `say "hello, what is poetic computation"` | say words out loud    | speak  |
 | `man cd`                                  | show the manual for 'cd'. Press q to quit | define |
+
 
 ## Keyboard Terminal Commands
 | Command         | Description            | Verb     |
@@ -134,10 +136,7 @@ Every time you make a folder or rename a file on your computer, the actions you 
   
 
  
-## Folder Poetry Activity
-### Download the house
-Your home folder or directory is represented by the `~` symbol in terminal. This folder is located near the root of your computer's entire system. Explore the house.
-
+## Notes on why we're using a spacial and narrative metaphors for learning bash and creating folder poetry
 
 **Using the command line and computing in general is a relational practice**. You are never using the command line from a “global” perspective. When you issue commands from the command line, you are doing so, from a particular position within the hierarchy of your computer’s file system.
 
