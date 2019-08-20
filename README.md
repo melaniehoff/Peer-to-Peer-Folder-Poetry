@@ -34,6 +34,11 @@ This workshop assumes no coding experience and simultaneously takes the position
 - To introduce [DAT](https://dat.foundation/) and navigating the Command Line with [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 - To create poetry through building a folder-based city on the peer-to-peer web for each other to inhabit
 
+# Agenda
+- [Your Peer-to-Peer address book on the distributed web](https://paper.dropbox.com/doc/Folder-Villages--AjMjeZad3AsNoXxBhdWb8w~tAg-0iYS6PoNLgxduPJZIy2xr)
+
+
+
 ## Vocabulary
 **Word** | **Definition**
 --- | ---
