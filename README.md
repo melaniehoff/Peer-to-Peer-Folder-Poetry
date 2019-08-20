@@ -110,11 +110,13 @@ Every time you make a folder or rename a file on your computer, the actions you 
  - What does it mean to put things into discrete categories
  - examples of folder-poetry
  - A fork in the road activity
+
 **Part II: Terminal & Bash**
  - You and your file path <3
  - Intro to bash and common commands
  - Tour of a village through bash
  - Creating our own folder-villages
+ 
  **Part III: Peer-to-Peer, DAT, & the Distributed Web**
   - P2P means no middle man
   - Dat is a protocol for sharing data between computers.
@@ -122,8 +124,9 @@ Every time you make a folder or rename a file on your computer, the actions you 
   - The Distributed Web is about decentralization of servers and control
   - Data on the didtributed web is not indexed which means it is not searchable
   - We are creating a local internet island away from the default(larger) internet
-  
-  To bring your village to the distributed web:
+ 
+ 
+  **To bring your village to the distributed web:**
   1. Open a totally new window in Terminal
   2. `cd folder-poetry` _this brings you into your folder-poetry folder_
   3. `dat share` _this starts serving your folder on the P2P web_
