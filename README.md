@@ -13,12 +13,13 @@ This workshop assumes no coding experience and simultaneously takes the position
 - **What is your village called?**
 - Consider how you would like to share space with others in your environment. 
  - In your village, how do you communicate and care for each other? How are people held?
-- What kinds of public spaces does your city have and how are they accessed?
+- What kinds of public spaces does your village have and how are they accessed?
 - **Be as specific as you can.** What kinds of plants and animals live in your village or in your garden at home? What kinds of rooms does your home contain? What objects and feelings do these rooms hold for you? 
-- Consider the ephemeral aspects of your city as much as the physical aspects.
+- Consider the ephemeral aspects of your village as much as the physical aspects.
  - What are the emotional qualities of the spaces in your village?
  - What is the weather like in your village? 
  - How are different parts of your village accessed and by whom? 
+
 
 
 ## Please Review these Resources Before Class
