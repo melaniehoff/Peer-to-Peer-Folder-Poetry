@@ -105,13 +105,15 @@ Every time you make a folder or rename a file on your computer, the actions you 
  ## Agenda
  - Introductions
     - What is the story of your (folder) name?
+    
 **Part I: Folder Poetry**
 - Reintroduction to computers & computing
     - Folders/file systems
 - What is Folder Poetry and how will we be creating it?
  - What does it mean to put things into discrete categories
  - examples of folder-poetry
- - A fork in the road activity
+ 
+ **Sharing & Discussion of your villages**
 
 **Part II: Terminal & Bash**
  - You and your file path <3
