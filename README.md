@@ -34,9 +34,6 @@ This workshop assumes no coding experience and simultaneously takes the position
 - To introduce [DAT](https://dat.foundation/) and navigating the Command Line with [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 - To create poetry through building a folder-based city on the peer-to-peer web for each other to inhabit
 
-# Agenda
-- [Your Peer-to-Peer address book on the distributed web](https://paper.dropbox.com/doc/Folder-Villages--AjMjeZad3AsNoXxBhdWb8w~tAg-0iYS6PoNLgxduPJZIy2xr)
-
 
 
 ## Vocabulary
@@ -103,6 +100,55 @@ Every time you make a folder or rename a file on your computer, the actions you 
 | `bash myfile.sh`                                                                    | to run a bash file                                   |
 | `curl sfpc.io`                                                                      | prints the html of a website                         |    
     
+ ## Agenda
+ - Introductions
+    - What is the story of your (folder) name?
+**Part I: Folder Poetry**
+- Reintroduction to computers & computing
+    - Folders/file systems
+- What is Folder Poetry and how will we be creating it?
+ - What does it mean to put things into discrete categories
+ - examples of folder-poetry
+ - A fork in the road activity
+**Part II: Terminal & Bash**
+ - You and your file path <3
+ - Intro to bash and common commands
+ - Tour of a village through bash
+ - Creating our own folder-villages
+ **Part III: Peer-to-Peer, DAT, & the Distributed Web**
+  - P2P means no middle man
+  - Dat is a protocol for sharing data between computers.
+  - Dat’s strengths are that data is hosted and distributed by many computers on the network, that it can work offline or with poor connectivity
+  - The Distributed Web is about decentralization of servers and control
+  - Data on the didtributed web is not indexed which means it is not searchable
+  - We are creating a local internet island away from the default(larger) internet
+  
+  To bring your village to the distributed web:
+  1. Open a totally new window in Terminal
+  2. `cd folder-poetry` _this brings you into your folder-poetry folder_
+  3. `dat share` _this starts serving your folder on the P2P web_
+  4. minimize this window so you dont touch it. Your folder will only be sharing as long as this terminal window is active and dat share-ing.
+  
+
+ 
+## Folder Poetry Activity
+### Download the house
+Your home folder or directory is represented by the `~` symbol in terminal. This folder is located near the root of your computer's entire system. Explore the house.
+
+
+**Using the command line and computing in general is a relational practice**. You are never using the command line from a “global” perspective. When you issue commands from the command line, you are doing so, from a particular position within the hierarchy of your computer’s file system.
+
+Similarly, when we are inside a house, we are never simultaneously in the kitchen and the bedroom. If we tried to “get into bed” while in the kitchen, we would not be able to. However if we wanted to wash dishes while standing in the kitchen, we would be able to.
+
+From the command line, if we have navigated to the Desktop folder but try to perform an action on a file that’s inside your home directory, this would not work. You would have to navigate to the home folder by navigating your file path.
+ 
+ 
+
+ 
+ 
+ - [Your Peer-to-Peer address book on the distributed web](https://paper.dropbox.com/doc/Folder-Villages--AjMjeZad3AsNoXxBhdWb8w~tAg-0iYS6PoNLgxduPJZIy2xr)
+ 
+ 
  **_Check out a related workshop I taught recently with SFPC in Detroit called Folder Poetry: [https://github.com/melaniehoff/folderpoetry/](https://github.com/melaniehoff/folderpoetry/blob/master/README.md)_**
 ⇢ [folderpoetry.club](http://www.folderpoetry.club)
     
