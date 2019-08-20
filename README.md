@@ -151,7 +151,7 @@ From the command line, if we have navigated to the Desktop folder but try to per
 
  
  
- - [Your Peer-to-Peer address book on the distributed web](https://paper.dropbox.com/doc/Folder-Villages--AjMjeZad3AsNoXxBhdWb8w~tAg-0iYS6PoNLgxduPJZIy2xr)
+ - 📞 🌿 [Your Peer-to-Peer address book on the distributed web](https://paper.dropbox.com/doc/Folder-Villages--AjMjeZad3AsNoXxBhdWb8w~tAg-0iYS6PoNLgxduPJZIy2xr)
  
  
  **_Check out a related workshop I taught recently with SFPC in Detroit called Folder Poetry: [https://github.com/melaniehoff/folderpoetry/](https://github.com/melaniehoff/folderpoetry/blob/master/README.md)_**
