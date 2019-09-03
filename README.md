@@ -48,7 +48,7 @@ Everyone who interacts with computers has, in very real ways already been progra
 Together we can build up and cultivate one another’s agency to shape technology and online spaces that support and care for each other and our communities. 
     
 
-# To create our folder poetry, we will use Bash in the terminal. To share our folder poetry, we will use Dat.
+## To create our folder poetry, we will use Bash in the terminal. To share our folder poetry, we will use Dat.
 
 >"Dat is a p2p protocol that enables people to publish content and information to the web from their personal computers. This fundamentally changes the relationship people have to the internet by breaking the client server hierarchy and opens the realm of self publishing to everyone." - [New Computers Working Group](https://p2p.newcomputers.group/guides/why-self-host.html)
  
