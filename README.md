@@ -13,9 +13,10 @@ This workshop assumes no coding experience and simultaneously takes the position
 ## Please Review these Resources Before Class
 - [P2P Folder Poetry Arena Channel](https://www.are.na/melanie-hoff/peer-to-peer-folder-poetry)
 
-## Detroit & Japan
-- [SFPC YCAM P2P Folder Poetry Notes]()
-- [SFPC Detroit P2P Folder Poetry Notes](https://gist.github.com/melaniehoff/7cda150870c869c1990a744dddbd286f)
+## Workshop Notes
+_P2P Folder Poetry will be taught in multiple places. These are the notes for each place._
+- [SFPC YCAM - September 2019](https://gist.github.com/melaniehoff/96bffd279b0ea66f61291e231283aab5) 
+- [SFPC Detroit - August 2019](https://gist.github.com/melaniehoff/7cda150870c869c1990a744dddbd286f) 
 
 
 ## Session Objectives
