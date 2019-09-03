@@ -10,11 +10,11 @@ What if we could build and live in a new kind of digital city that transforms ou
 This workshop assumes no coding experience and simultaneously takes the position that everyone who interacts with computers in some way is already a programmer.
 
 
-## Please Review these Resources Before Class
+## Resources to Review Before Class
 - [P2P Folder Poetry Arena Channel](https://www.are.na/melanie-hoff/peer-to-peer-folder-poetry)
 
 ## Workshop Notes
-_P2P Folder Poetry will be taught in multiple places. These are the notes for each place._
+_P2P Folder Poetry will be taught in multiple places. These are the notes and slides for each place._
 - [SFPC YCAM - September 2019](https://gist.github.com/melaniehoff/96bffd279b0ea66f61291e231283aab5) 
 - [SFPC Detroit - August 2019](https://gist.github.com/melaniehoff/7cda150870c869c1990a744dddbd286f) 
 
@@ -26,8 +26,6 @@ _P2P Folder Poetry will be taught in multiple places. These are the notes for ea
 - To introduce [DAT](https://dat.foundation/) and navigating the Command Line with [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 - To create poetry through building a folder-based city on the peer-to-peer web for each other to inhabit
 
-## Slides
-- [Slides](https://docs.google.com/presentation/d/1jSeKHcBZwUUZKdRQRrCareC9YdaeYWDdeiE6Zzwe7aY/edit?usp=sharing)
 
 ## Vocabulary
 **Word** | **Definition**
