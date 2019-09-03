@@ -11,8 +11,11 @@ This workshop assumes no coding experience and simultaneously takes the position
 
 
 ## Please Review these Resources Before Class
-- [What is DAT and why Peer-to-peer?](https://p2p.newcomputers.group/guides/why-self-host.html)
 - [P2P Folder Poetry Arena Channel](https://www.are.na/melanie-hoff/peer-to-peer-folder-poetry)
+
+## Detroit & Japan
+- [SFPC YCAM P2P Folder Poetry Notes]()
+- [SFPC Detroit P2P Folder Poetry Notes](https://gist.github.com/melaniehoff/7cda150870c869c1990a744dddbd286f)
 
 
 ## Session Objectives
