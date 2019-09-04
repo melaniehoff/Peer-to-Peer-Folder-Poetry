@@ -35,7 +35,7 @@ _P2P Folder Poetry will be taught in multiple places. These are the notes and sl
 
 
 ## Vocabulary
-**Word** | **Definition**
+**Word** | 
 --- | ---
 Folder Poetry| The practice of using the structure of computer folder organization as a new kind of [poetic form](https://en.wikipedia.org/wiki/Poetry#Forms) like the [haiku](https://en.wikipedia.org/wiki/Haiku) or [iambic pentameter](https://en.wikipedia.org/wiki/Iambic_pentameter). By naming and nesting folders and files, we can create unfolding narratives, rythmic prose, and choose-your-own-adventure poetry.
 terminal | A desktop application to control and make changes to your operating system by typing text commands. In this class we'll use the terminal to create folder poetry.
@@ -49,6 +49,7 @@ file types/formats/extensions | indicate how data has been stored and how to rea
 file path | tells you the location of a file in a system. for example `users/username/desktop/folder_poetry_club`
 
 # Always Already Programmimg
+
 
 Every time you make a folder or rename a file on your computer, the actions you take through moving your mouse and clicking on buttons, have an equivalent text command. When you use a visual interface (called a GUI) text commands are still being fired in the background which eventually compile to binary. Using bash in the terminal is a way to get a little closer to the metal and a little further along in uncovering the mechanics of our most common devices.
 
