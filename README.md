@@ -7,6 +7,7 @@ https://docs.google.com/spreadsheets/d/1h-xDzg3RJ-Xf8A8ItPKm-GGl3T8qBfJcExM3vTsZ
 What if we could build and live in a new kind of digital city that transforms our online networks from a corporate-owned service to a community-run medium of shared placemaking? In this workshop we will collectively create a peer-to-peer city using the structure of nested folders and [DAT](https://dat.foundation/). Taking a closer look at the common practice of computer organization using folders and files and taking a page out of Italo Calvino's book, Invisible Cities, we will explore folder structures as a new kind of poetic form and DAT as a way to build digital spaces with and for our networks.
 
 **[Always Already Programming](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry#always-already-programmimg)**
+
 This workshop assumes no coding experience and simultaneously takes the position that everyone who interacts with computers in some way is already a programmer.
 
 
