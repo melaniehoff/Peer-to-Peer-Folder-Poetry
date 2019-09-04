@@ -13,6 +13,12 @@ This workshop assumes no coding experience and simultaneously takes the position
 ## Resources to Review Before Class
 - [P2P Folder Poetry Arena Channel](https://www.are.na/melanie-hoff/peer-to-peer-folder-poetry)
 
+## Prerequisites
+- A computer running macOS, Linux or Windows 10
+- An Internet connection to download software packages
+- Administrator access to your computer to install software packages
+- In this workshop we will use Bash, Node.js, and Dat.
+
 ## Workshop Notes
 _P2P Folder Poetry will be taught in multiple places. These are the notes and slides for each place._
 - [SFPC YCAM - September 2019](https://gist.github.com/melaniehoff/96bffd279b0ea66f61291e231283aab5) 
