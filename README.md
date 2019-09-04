@@ -69,6 +69,7 @@ Similarly, when we are inside a house, we are never simultaneously in the kitche
 
 From the command line, if we have navigated to the Desktop folder but try to perform an action on a file that’s inside your home directory, this would not work. You would have to navigate to the home folder by navigating your file path.
  
+ [Bash Drawings made for Folder Poetry by Taeyoon Choi](https://docs.google.com/presentation/d/1WV_vFHtKB7BUBc3P_oGVlLry6W_8K_fJkJiWzisXonY/edit#slide=id.g60e8df3e27_0_113)
  
  **_Check out a related workshop I taught recently with SFPC in Detroit called Folder Poetry: [https://github.com/melaniehoff/folderpoetry/](https://github.com/melaniehoff/folderpoetry/blob/master/README.md)_**
 ⇢ [folderpoetry.club](http://www.folderpoetry.club)
