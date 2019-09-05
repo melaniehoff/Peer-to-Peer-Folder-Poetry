@@ -10,7 +10,7 @@ This workshop assumes no coding experience and simultaneously takes the position
 
 ## Workshop Notes
 _P2P Folder Poetry will be taught in multiple places. These are the notes and slides for each place._
-- 🔴[SFPC YCAM - September 2019](https://gist.github.com/melaniehoff/96bffd279b0ea66f61291e231283aab5) 
+- 🔴 [SFPC YCAM - September 2019](https://gist.github.com/melaniehoff/96bffd279b0ea66f61291e231283aab5) 
 - [SFPC Detroit - August 2019](https://gist.github.com/melaniehoff/7cda150870c869c1990a744dddbd286f) 
 - Radical Networks - October 2019 
 
