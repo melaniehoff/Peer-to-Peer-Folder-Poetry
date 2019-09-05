@@ -8,6 +8,11 @@ What if we could build and live in a new kind of digital city that transforms ou
 
 This workshop assumes no coding experience and simultaneously takes the position that everyone who interacts with computers in some way is already a programmer.
 
+## Workshop Notes
+_P2P Folder Poetry will be taught in multiple places. These are the notes and slides for each place._
+- 🔴[SFPC YCAM - September 2019](https://gist.github.com/melaniehoff/96bffd279b0ea66f61291e231283aab5) 
+- [SFPC Detroit - August 2019](https://gist.github.com/melaniehoff/7cda150870c869c1990a744dddbd286f) 
+- Radical Networks - October 2019 
 
 ## Resources to Review Before Class
 - [P2P Folder Poetry Arena Channel](https://www.are.na/melanie-hoff/peer-to-peer-folder-poetry)
@@ -17,12 +22,6 @@ This workshop assumes no coding experience and simultaneously takes the position
 - An Internet connection to download software packages
 - Administrator access to your computer to install software packages
 - In this workshop we will use Bash, Node.js, and Dat.
-
-## Workshop Notes
-_P2P Folder Poetry will be taught in multiple places. These are the notes and slides for each place._
-- [SFPC YCAM - September 2019](https://gist.github.com/melaniehoff/96bffd279b0ea66f61291e231283aab5) 
-- [SFPC Detroit - August 2019](https://gist.github.com/melaniehoff/7cda150870c869c1990a744dddbd286f) 
-- Radical Networks - October 2019 
 
 
 ## Session Objectives
