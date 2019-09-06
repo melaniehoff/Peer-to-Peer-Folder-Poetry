@@ -1,0 +1,11 @@
+At SFPC, I have been a student, a TA, an organizer, an artist, and a teacher. SFPC holds these parts of me well and I hope it is holding you too. The unique educational space of SFPC is co-created by you, me, the person sitting next to you. If something doesn't feel good we can work together to change it. SFPC can grow with you as you grow.
+
+🦋🌿🍄🌿🦋🌿🌻🌿🦋🌿🌷🌿🦋🌿💐🌿🦋🌿
+
+ALWAYS ALREADY PROGRAMMING
+
+Every time you make a folder or rename a file on your computer, the actions you take through moving your mouse and clicking on buttons, have an equivalent text command. When you use a visual interface (called a GUI) text commands are still being fired in the background which eventually compile to binary. Using bash in the terminal is a way to get a little closer to the metal and a little further along in uncovering the mechanics of our most common devices.
+
+Everyone who interacts with computers has, in very real ways already been programming. The distinction between programmer and user is maintained by a tech industry that benefits from a population rendered computationally passive.
+
+Together we can build up and cultivate one another’s agency to shape technology and online spaces that support and care for each other and our communities.

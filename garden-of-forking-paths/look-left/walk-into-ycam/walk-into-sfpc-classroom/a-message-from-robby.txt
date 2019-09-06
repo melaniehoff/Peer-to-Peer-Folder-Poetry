@@ -1,0 +1,44 @@
+(-1,6)..(0,6)
+       | . (2,5)
+       |
+       |      . (5,2)
+(-6,1).       |       . (6,1)
+-----------------. (6,0)
+-6,-1).       |
+       |
+       |
+       |
+pts far, in same quadrant      pts near each other
+6*5 - 2*1 = 30-2 = 28          12-10 = 2
+2*1 - 6*5 = 2-30 = -28         10-12 = -2
+how to explore the unexplored?
+there are times your work is unique and times when it drifts back to resemble other people's.
+take note of this moment-what took you there?
+mirror x
+6*1 - -1*6 = 12
+-6*1 - 1*6 = -12
+90 deg                       90 deg - slightly shorter vector
+6*6 - -1*1 = 38              6*6 - 0*0 = 36
+-1*1 - 6*6 = -38             0*0 - 6*6 = -36
+"we couldn't measure what was important, so we decided what we could measure was important"
+A (horizontal upward),    B (vertical backwards)
+get the vector direction of each line and cross one line against the other
+depending on order, you get the same number + / -
+save both
+aVec = (8, 3)      bVec = (-4,7)
+give people the ability to play in the space *around* the solution.
+hypothesis: highly organized space has the potential to heighten your senses, relax you, make you more at ease.
+this cross product is
+8*7 - 3*-4 = 56 + 12 = 68
+-4*3 - 8*7 = -12 - 56 = -68
+make an additional line connecting a origin and b origin
+o                                               o
+\      ---o         (4,8)                       \      ---o
+\ ----                       (10,7)             \ ----
+---\                                            ---\
+o---    \                                       o---    \
+a origin     \           (2,4)                         ---   \
+ \                   (8,1)                   --- \
+  o                                             --o
+b origin
+aTOb = (6, -3)    bTOa = (-6, 3)
