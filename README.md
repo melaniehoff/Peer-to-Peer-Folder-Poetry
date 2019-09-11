@@ -11,7 +11,9 @@ This workshop assumes no coding experience and simultaneously takes the position
 ## Workshops
 _P2P Folder Poetry has been taught in multiple places. These are the notes and slides for each place._
 - 🔴 [SFPC YCAM - September 2019](https://gist.github.com/melaniehoff/96bffd279b0ea66f61291e231283aab5) 
+    - [Download the Class Zine here](https://melanie-hoff.com/folder-poetry/sfpc-ycam/zine-pdfs-ycam-folder-poetry.zip)
 - [SFPC Detroit - August 2019](https://gist.github.com/melaniehoff/7cda150870c869c1990a744dddbd286f) 
+    - [Download the Class Zine here](https://melanie-hoff.com/folder-poetry/sfpc-detroit/detroit-zine-reader.pdf.zip)
 - Radical Networks - October 2019 
 - [SFPC Detroit - June 2019](https://github.com/melaniehoff/folderpoetry/blob/master/README.md)
 
@@ -61,7 +63,7 @@ Together we can build up and cultivate one another’s agency to shape technolog
 
 >"Dat is a p2p protocol that enables people to publish content and information to the web from their personal computers. This fundamentally changes the relationship people have to the internet by breaking the client server hierarchy and opens the realm of self publishing to everyone." - [New Computers Working Group](https://p2p.newcomputers.group/guides/why-self-host.html)
  
-## Notes on why we're using a spacial and narrative metaphors for learning bash and creating folder poetry
+## Notes on why we're using a spatial and narrative metaphors for learning bash and creating folder poetry
 
 **Using the command line and computing in general is a relational practice**. You are never using the command line from a “global” perspective. When you issue commands from the command line, you are doing so, from a particular position within the hierarchy of your computer’s file system.
 
