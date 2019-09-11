@@ -11,9 +11,9 @@ This workshop assumes no coding experience and simultaneously takes the position
 ## Workshops
 _P2P Folder Poetry has been taught in multiple places. These are the notes and slides for each place._
 - 🔴 [SFPC YCAM - September 2019](https://gist.github.com/melaniehoff/96bffd279b0ea66f61291e231283aab5) 
-    - [Download the Class Zine here](https://melanie-hoff.com/folder-poetry/sfpc-ycam/zine-pdfs-ycam-folder-poetry.zip)
+    - 📒[Download the Class Zine here](https://melanie-hoff.com/folder-poetry/sfpc-ycam/zine-pdfs-ycam-folder-poetry.zip)
 - [SFPC Detroit - August 2019](https://gist.github.com/melaniehoff/7cda150870c869c1990a744dddbd286f) 
-    - [Download the Class Zine here](https://melanie-hoff.com/folder-poetry/sfpc-detroit/detroit-zine-reader.pdf.zip)
+    - 📒[Download the Class Zine here](https://melanie-hoff.com/folder-poetry/sfpc-detroit/detroit-zine-reader.pdf.zip)
 - Radical Networks - October 2019 
 - [SFPC Detroit - June 2019](https://github.com/melaniehoff/folderpoetry/blob/master/README.md)
 
