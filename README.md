@@ -2,11 +2,16 @@
 
 # Peer-to-Peer Folder Poetry
 
-What if we could build and live in a new kind of digital city that transforms our online networks from a corporate-owned service to a community-run medium of shared placemaking? In this workshop we will collectively create a peer-to-peer city using the structure of nested folders and [DAT](https://dat.foundation/). Taking a closer look at the common practice of computer organization using folders and files and taking a page out of Italo Calvino's book, Invisible Cities, we will explore folder structures as a new kind of poetic form and DAT as a way to build digital spaces with and for our networks.
+What if we could transform our online networks from something we passively receive to something we actively create? Folder Poetry is the practice of using the structure of computer folder organization as a new kind of poetic form like the haiku or iambic pentameter. By naming and nesting folders and files, we can create unfolding narratives, rhythmic prose, and choose-your-own-adventure poetry. In this workshop we will collectively create peer-to-peer folder poetry using the command line and Dat. Through lecture, examples, and writing folder poetry as meditation, we will explore the narrative qualities of folder structures and DAT as a tool for building digital spaces with and for our networks.
+
+In this session we will get intimate with computers and write poetry with their logic. This workshop is an introduction to writing folder poetry, the P2P protocol Dat, and navigating the command line interface using Bash.
+
+Together, we will create living networked poetry through connecting folders on the peer-to-peer web for each other to inhabit and explore.
+
+This workshop assumes no coding experience and simultaneously takes the position that everyone who interacts with computers in some way is already a programmer.
 
 **[Always Already Programming](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry#always-already-programmimg)**
 
-This workshop assumes no coding experience and simultaneously takes the position that everyone who interacts with computers in some way is already a programmer.
 
 ## Workshops
 _P2P Folder Poetry has been taught in multiple places. These are the notes and slides for each place._
