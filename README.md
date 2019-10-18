@@ -2,7 +2,7 @@
 
 # Peer-to-Peer Folder Poetry
 
-What if we could transform our online networks from something we passively receive to something we actively create? Folder Poetry is the practice of using the structure of computer folder organization as a new kind of poetic form like the haiku or iambic pentameter. By naming and nesting folders and files, we can create unfolding narratives, rhythmic prose, and choose-your-own-adventure poetry. In this workshop we will collectively create peer-to-peer folder poetry using the command line and Dat. Through lecture, examples, and writing folder poetry as meditation, we will explore the narrative qualities of folder structures and DAT as a tool for building digital spaces with and for our networks.
+What if we could transform our online networks from something we passively receive to something we actively create? Folder Poetry is the practice of using the structure of computer folder organization as a new kind of poetic form like the haiku or iambic pentameter. By naming and nesting folders and files, we can create unfolding narratives, rhythmic prose, and choose-your-own-adventure poetry. In this workshop we will collectively create peer-to-peer folder poetry using the command line and Dat. Through lecture, examples, and writing folder poetry as meditation, we will explore the narrative qualities of folder structures and Dat as a tool for building digital spaces with and for our networks.
 
 In this session we will get intimate with computers and write poetry with their logic. This workshop is an introduction to writing folder poetry, the P2P protocol Dat, and navigating the command line interface using Bash.
 
@@ -10,7 +10,7 @@ Together, we will create living networked poetry through connecting folders on t
 
 This workshop assumes no coding experience and simultaneously takes the position that everyone who interacts with computers in some way is already a programmer.
 
-**[Always Already Programming](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry#always-already-programmimg)**
+**[Always Already Programming](#always-already-programming)**
 
 
 ## Workshops
@@ -26,7 +26,7 @@ _P2P Folder Poetry has been taught in multiple places. These are the notes and s
 - [P2P Folder Poetry Arena Channel](https://www.are.na/melanie-hoff/peer-to-peer-folder-poetry)
 
 ## Prerequisites
-- A computer running macOS, Linux or Windows 10
+- A computer running macOS, Linux or [Windows 10](https://gist.github.com/solon/4e254be6e0d2e73ef8624470fc9ca852#file-folder-poetry-setup-md)
 - An Internet connection to download software packages
 - Administrator access to your computer to install software packages
 - In this workshop we will use Bash, Node.js, and Dat.
@@ -35,26 +35,26 @@ _P2P Folder Poetry has been taught in multiple places. These are the notes and s
 ## Session Objectives
 
 - To create a space where we are getting intimate with computers and writing poetry with their logic
-- To develop a taste for creating emotive and community centered software
-- To introduce [DAT](https://dat.foundation/) and navigating the Command Line with [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+- To develop a taste for creating emotive and community-centered software
+- To introduce [Dat](https://dat.foundation/) and navigating the Command Line with [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 - To create poetry through building a folder-based city on the peer-to-peer web for each other to inhabit
 
 
 ## Vocabulary
 **Word** | **Notes**
 --- | ---
-Folder Poetry| The practice of using the structure of computer folder organization as a new kind of [poetic form](https://en.wikipedia.org/wiki/Poetry#Forms) like the [haiku](https://en.wikipedia.org/wiki/Haiku) or [iambic pentameter](https://en.wikipedia.org/wiki/Iambic_pentameter). By naming and nesting folders and files, we can create unfolding narratives, rythmic prose, and choose-your-own-adventure poetry.
+Folder Poetry| The practice of using the structure of computer folder organization as a new kind of [poetic form](https://en.wikipedia.org/wiki/Poetry#Forms) like the [haiku](https://en.wikipedia.org/wiki/Haiku) or [iambic pentameter](https://en.wikipedia.org/wiki/Iambic_pentameter). By naming and nesting folders and files, we can create unfolding narratives, rhythmic prose, and choose-your-own-adventure poetry.
 terminal | A desktop application to control and make changes to your operating system by typing text commands. In this class we'll use the terminal to create folder poetry.
-terminal commands | text commands to control your computer when entered into a command promt like the terminal. The commands we'll learn will be in a language called Bash.
+terminal commands | text commands to control your computer when entered into a command prompt like the terminal. The commands we'll learn will be in a language called Bash.
 Bash | is the programming language we use in the terminal, often one line at a time, but we can also put Bash code in a file and run that file.
 Peer-to-Peer | Peer-to-peer computing is a way to make distributed networks in which each computer can act as a server for the others, allowing shared access to files without the need for a central server.
-DAT | is a data distribution tool with for publishing on peer-to-peer networks.
+Dat | is a data distribution tool for publishing on peer-to-peer networks.
 folder | (also referred to as directory) is an organizational regime imposed on your computer used to store and organize files and other folders
 file | is an object on a computer which stores data, information, settings, or commands to be used with various computer programs
 file types/formats/extensions | indicate how data has been stored and how to read or open files in specific programs. for example, `.txt` files open in a text editor, `.jpg` files open in an image viewer/editor. full list of file formats and extensions [here](https://en.wikipedia.org/wiki/List_of_file_formats)
 file path | tells you the location of a file in a system. for example `users/username/desktop/folder_poetry_club`
 
-# Always Already Programmimg
+# Always Already Programming
 
 
 Every time you make a folder or rename a file on your computer, the actions you take through moving your mouse and clicking on buttons, have an equivalent text command. When you use a visual interface (called a GUI) text commands are still being fired in the background which eventually compile to binary. Using bash in the terminal is a way to get a little closer to the metal and a little further along in uncovering the mechanics of our most common devices.
