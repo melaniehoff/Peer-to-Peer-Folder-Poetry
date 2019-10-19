@@ -15,17 +15,16 @@
 - [Workshop Description & Theory](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#workshop-description)
 
 ## Preparation for Class
-- Download [this folder](https://melanie-hoff.com/folder-poetry/radical-networks/garden-of-forking-paths.zip) and move it to your Home directory
-- Install Node & Dat
+1.  Download [this folder](https://melanie-hoff.com/folder-poetry/radical-networks/garden-of-forking-paths.zip) and move it to your Home directory
+2. Install Node & Dat
 Run each of these Bash lines one after the other by pasting them in your Terminal and pressing ENTER.
+- `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.0/install.sh | bash`
+- `source ~/.bash_profile`
+- `nvm install --lts`
+- `nvm use --lts`
+- `npm install -g dat`
 
-`curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.0/install.sh | bash`
-`source ~/.bash_profile`
-`nvm install --lts`
-`nvm use --lts`
-`npm install -g dat`
-
-### 🌳Prompt: Folder Poem as Home
+### 3. 🌳Prompt: Folder Poem as Home
 _What would your utopic, liberatory living environment look like?_
 
 Gently explore your imagination and think about the following prompt. Write, diagram, or draw out your thoughts.
