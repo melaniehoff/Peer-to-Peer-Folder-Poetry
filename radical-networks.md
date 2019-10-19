@@ -79,8 +79,7 @@ _The network is a folder poem_
 - [Sharing our Poems on the P2P Web](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#-sharing-our-poems-on-the-p2p-web)
 
 
-
-### [Workshop Slides](https://docs.google.com/presentation/d/1K6vC-erUczNtjtBB4Q8wDeJXCcRIrP_t_BttH_kDxKo/edit?usp=sharing)
+_________
 
 ## Folder Poetry Examples
 📒[Download: Folder Poetry - SFPC Yamaguchi Japan Zine](https://melanie-hoff.com/folder-poetry/sfpc-ycam/zine-pdfs-ycam-folder-poetry.zip)<br>
@@ -88,6 +87,8 @@ _The network is a folder poem_
 - Folder Poetry on the regular internet
     - [folderpoetry.club](folderpoetry.club)
     - Laurel Schwulst's adapatation of Folder Poetry in their _Writing as Metadata_ class at Yale: [metadatarocks.nfshost.com](metadatarocks.nfshost.com)
+
+_____
 
 ## P2P Folder Poetry Rules
 _The artform of folder poetry is forgiving, Dat is not_
