@@ -75,7 +75,8 @@ _The Desktop is a lie_
 - [Folder Poetry Rules](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#p2p-folder-poetry-rules)
 
 ### Part IIII: Peer-to-Peer Poetry with Dat
-[_The network is a folder poem_](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#-sharing-our-poems-on-the-p2p-web)
+_The network is a folder poem_
+- [Sharing our Poems on the P2P Web](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#-sharing-our-poems-on-the-p2p-web)
 
 
 
