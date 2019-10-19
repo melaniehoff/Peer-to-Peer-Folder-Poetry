@@ -70,7 +70,9 @@ _The Desktop is a lie_
 - [Editing bash_profile](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#editing-your-bash_profile)
 
 ### Part III
-[_Making our Folder Poem Homes_](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#making-our-folder-poems)
+_Making our Folder Poem Homes_
+
+- [Folder Home Structure](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#making-our-folder-poems)
 - [Bash commands](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#-bash--terminal-commands)
 - [Folder Poetry Rules](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#p2p-folder-poetry-rules)
 
