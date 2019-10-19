@@ -15,16 +15,16 @@
 - [Workshop Description & Theory](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#workshop-description)
 
 ## Preparation for Class
-1.  Download [this folder](https://melanie-hoff.com/folder-poetry/radical-networks/garden-of-forking-paths.zip) and move it to your Home directory
-2. Install Node & Dat
-Run each of these Bash lines one after the other by pasting them in your Terminal and pressing ENTER.
+**1.  Download [this folder](https://melanie-hoff.com/folder-poetry/radical-networks/garden-of-forking-paths.zip) and move it to your Home directory
+2. Install Node & Dat**
+Run each of these Bash lines one after the other by pasting them in your Terminal and pressing ENTR.
 - `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.0/install.sh | bash`
 - `source ~/.bash_profile`
 - `nvm install --lts`
 - `nvm use --lts`
 - `npm install -g dat`
 
-### 3. 🌳Prompt: Folder Poem as Home
+### 🌳Prompt: Folder Poem as Home
 _What would your utopic, liberatory living environment look like?_
 
 Gently explore your imagination and think about the following prompt. Write, diagram, or draw out your thoughts.
@@ -39,7 +39,7 @@ Gently explore your imagination and think about the following prompt. Write, dia
     - What are the emotional qualities of the spaces in your home?
     - What is the weather like around your home?
     - Consider the many forms it could take,
-        - A palace with many rooms. In each room a memory of something that happened in this room with someone in your *family*.
+        - A palace with many rooms. In each room a memory of something that happened in this room with someone in you live with.
         - A forest of folders where each resident is tree and insect files carry messages back and forth between them.
         - A school where each room is devoted to something you would like to learn collectively with those you share a home with.
         - A multi-generational interconnected courtyard housing compound with rooms for climbing, rooms for growing, rooms for cooking, rooms for learning.
@@ -47,7 +47,7 @@ Gently explore your imagination and think about the following prompt. Write, dia
 
 # Day 1 Agenda
 - Our Folder Names
-- Installation / Downloading / Preparation
+- Preparation / Installation / Downloading 
 - Introduction: Melanie's files
 
 ### Part I: Folder Poetry
@@ -59,20 +59,18 @@ _Programming is about the computer, the programmer, the relationship they have w
 - What does it mean to put things into discrete categories
 - Examples of folder projects
 - Folders Anonymous
-- Folder Poetry Examples
+- Folder Poetry on the regular internet
     - [folderpoetry.club](folderpoetry.club)
     - Laurel Schwulst's adapatation of Folder Poetry in their _Writing as Metadata_ class at Yale: [metadatarocks.nfshost.com](metadatarocks.nfshost.com)
 
 ### Part II: Terminal & Bash
 _The Desktop is a lie_
 - The terminal and Bash
-- [Technical requirements for P2P Folder Poetry]
 - Introduction of navigating the command line by walking through the-garden-of-forking-paths
     - [Download a garden-of-forking-paths](https://melanie-hoff.com/folder-poetry/radical-networks/garden-of-forking-paths.zip) and move it to your Home folder
-    - we will explore the garden-of-forking-paths with Bash together
     - growing the garden
 - Anatomy of Bash Prompt 
-- [Let's customize our Terminal]()
+- [Editing bash_profile](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#editing-your-bash_profile)
 
 ### Part III
 - Folder Poem as Home
@@ -84,11 +82,7 @@ _The Desktop is a lie_
 
 ### Part IIII: Peer-to-Peer Poetry with Dat
 _The network is a folder poem_
-`cd ~/folder-poetry`
-`dat share`
-copy the hash link into [the P2P Address book](https://docs.google.com/spreadsheets/d/1YPHB6c4ATzImkolcQz2nHPz1xm8n1AluqQrsI_R_sl4/edit?usp=sharing)
-_______
-`dat clone XXXX`
+
 
 
 ### [Workshop Slides](https://docs.google.com/presentation/d/1K6vC-erUczNtjtBB4Q8wDeJXCcRIrP_t_BttH_kDxKo/edit?usp=sharing)
@@ -175,7 +169,12 @@ In steps 2 and 3 we will paste 2 aliass AKA shortcuts that will help us visualiz
 5. `source ~/.bash_profile`
     - reboot your terminal
 
-
+## Making our Folder Poems
+`cd`
+`mkdir folder-poetry`
+`cd folder-poetry`
+`mkdir myname-home`
+^ this is where your folder poem will grow
 
 ## 🕸 Sharing our Poems on the P2P Web
 
