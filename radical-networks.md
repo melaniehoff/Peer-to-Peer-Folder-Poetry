@@ -1,12 +1,94 @@
 # P2P Folder Poetry Radical Networks
 
-What if we could transform our online networks from something we passively receive to something we actively create? Folder Poetry is the practice of using the structure of computer folder organization as a new kind of poetic form like the haiku or iambic pentameter. By naming and nesting folders and files, we can create unfolding narratives, rhythmic prose, and choose-your-own-adventure poetry. In this workshop we will collectively create peer-to-peer folder poetry using the command line and Dat. Through lecture, examples, and writing folder poetry as meditation, we will explore the narrative qualities of folder structures and DAT as a tool for building digital spaces with and for our networks.
+##Table of Contents
+- Preparation for Class _look here first 👀_
+- Agenda
+- Slides
+- Folder Poetry Zines & Examples
+- P2P Poetry Rules
+- Bash & Terminal Commands
+- Editing your .bash_profile
+- Dat
+- Folder Poetry Terms
+- Folder Poetry Theory
+
+##Preparation for Class
+- Download [this folder](https://melanie-hoff.com/folder-poetry/radical-networks/garden-of-forking-paths.zip) and move it to your Home directory
+- Install Node & Dat
+Run each of these Bash lines one after the other by pasting them in your Terminal and pressing ENTER.
+
+`curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.0/install.sh | bash`
+`source ~/.bash_profile`
+`nvm install --lts`
+`nvm use --lts`
+`npm install -g dat`
+
+### 🌳Prompt: Folder Poem as Home
+_What would your utopic, liberatory living environment look like?_
+
+Gently explore your imagination and think about the following prompt. Write, diagram, or draw out your thoughts.
+
+- **Imagine a kind of housing or space that could hold all your friends, chosen family, and maybe your biological family too.**
+- **This home does not have to be realistic or even physically probable.**
+    - What kinds of rooms, interconnecting hallways, or gardens could be grown? What kinds of activities would residents do in different spaces throughout the home?
+    - Consider the kinds of relationships you would like this home to hold & how people could relate to each other differently based on the proximity of their daily lives?
+    - Consider how you would like to share space with others in this home. How are different parts of your home accessed and by whom?
+    - Consider the ephemeral aspects of your home as much as the physical aspects.
+    - In this home, how do you communicate and care for each other?
+    - What are the emotional qualities of the spaces in your home?
+    - What is the weather like around your home?
+    - Consider the many forms it could take,
+        - A palace with many rooms. In each room a memory of something that happened in this room with someone in your *family*.
+        - A forest of folders where each resident is tree and insect files carry messages back and forth between them.
+        - A school where each room is devoted to something you would like to learn collectively with those you share a home with.
+        - A multi-generational interconnected courtyard housing compound with rooms for climbing, rooms for growing, rooms for cooking, rooms for learning.
+
+### 📒[Download the Class Zine here](https://melanie-hoff.com/folder-poetry/sfpc-ycam/zine-pdfs-ycam-folder-poetry.zip)
+
+
+# Day 1 Agenda
+- What is the story of your (folder) name?
+- Introduction: Melanie's files
+
+### Part I: Folder Poetry
+
+**Reintroduction to computers & computing**
+_Programming is about the computer, the programmer, the relationship they have with each other, and the environments they create together._ 
+- Folders/file systems
+- What is Folder Poetry and how will we be creating it?
+- What does it mean to put things into discrete categories
+- Examples of folder projects
+- Folders Anonymous
+- Folder Poetry Examples
+    - [folderpoetry.club](folderpoetry.club)
+    - Laurel Schwulst's adapatation of Folder Poetry in their _Writing as Metadata_ class at Yale: [metadatarocks.nfshost.com](metadatarocks.nfshost.com)
+
+### Part II: Terminal & Bash
+- The terminal and Bash
+- [Technical requirements for P2P Folder Poetry]
+- Introduction of navigating the command line by walking through the-garden-of-forking-paths
+    - [Download a garden-of-forking-paths](https://melanie-hoff.com/folder-poetry/radical-networks/garden-of-forking-paths.zip) and move it to your Home folder
+    - we will explore the garden-of-forking-paths with Bash together
+    - growing the garden
+- Anatomy of Bash Prompt 
+- [Let's customize our Terminal]()
+
+### Part III: Peer-to-Peer Poetry with Dat
+_The network is a folder poem_
+
+
+
+
+
+
+
+What if we could transform our online networks from something we passively receive to something we actively create? Folder Poetry is the practice of using the structure of computer folder organization as a new kind of poetic form like the haiku or iambic pentameter. By naming and nesting folders and files, we can create unfolding narratives, rhythmic prose, and choose-your-own-adventure poetry. In this workshop we will collectively create peer-to-peer folder poetry using the command line and Dat. Through lecture, examples, and writing folder poetry as meditation, we will explore the narrative qualities of folder structures and Dat as a tool for building digital spaces with and for our networks.
 
 In this session we will get intimate with computers and write poetry with their logic. This workshop is an introduction to writing folder poetry, the P2P protocol Dat, and navigating the command line interface using Bash.
 
 Together, we will create living networked poetry through connecting folders on the peer-to-peer web for each other to inhabit and explore.
 
-This workshop assumes no coding experience and simultaneously takes the position that everyone who interacts with computers in some way is already a programmer....
+This workshop assumes no coding experience and simultaneously takes the position that everyone who interacts with computers in some way is already a programmer.
 
 # Always Already Programmimg
 
@@ -33,7 +115,6 @@ From the command line, if we have navigated to the Desktop folder but try to per
 
 ### [P2P Folder Poetry - Master syllabus](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry)
 
-### 📒[Download the Class Zine here](https://melanie-hoff.com/folder-poetry/sfpc-ycam/zine-pdfs-ycam-folder-poetry.zip)
 
 ### [Slides for Folder Poetry YCAM](https://docs.google.com/presentation/d/1jSeKHcBZwUUZKdRQRrCareC9YdaeYWDdeiE6Zzwe7aY/edit?usp=sharing)
  
@@ -53,41 +134,6 @@ From the command line, if we have navigated to the Desktop folder but try to per
 
 ___
 
-# Day 1 Agenda
-- Introductions
-- What is the story of your (folder) name?
-- Introduction: Melanie's files
-
-### Part I: Folder Poetry
-
-**Reintroduction to computers & computing**
-- Folders/file systems
-- What is Folder Poetry and how will we be creating it?
-- What does it mean to put things into discrete categories
-- Examples of folder projects
-- Examples of poetic computation gifts
-- Folders Anonymous
-- Folder Poetry Examples
-    - [folderpoetry.club](folderpoetry.club)
-    - Laurel Schwulst's adapatation of Folder Poetry in their _Writing as Metadata_ class at Yale: [metadatarocks.nfshost.com](metadatarocks.nfshost.com)
-    
-**BREAK**
-
-### Part II: Terminal & Bash
-- The terminal and Bash
-- [Technical requirements for P2P Folder Poetry](https://gist.github.com/melaniehoff/96bffd279b0ea66f61291e231283aab5#folder--file-requirements-for-p2p-folder-poetry)
-- Introduction of navigating the command line by walking through a garden
-    - [click this link to download a garden-of-forking-paths](https://melanie-hoff.com/folder-poetry/garden-of-forking-paths.zip). Uncompress this zip file and take note of what folder it is in. Downloads perhaps?
-    - we will explore the garden-of-forking-paths with Bash together
-    - we will add to the garden
-- Anatomy of Bash Prompt 
-- [Let's customize our Terminal](https://gist.github.com/melaniehoff/96bffd279b0ea66f61291e231283aab5#to-edit-your-bash_profile)
-
-**Creative Writing**
-- Draw out folder poem ideas
-- share them within your groups and then with the class
-- work in class on making them
-- [Installation for Day 2](https://gist.github.com/melaniehoff/96bffd279b0ea66f61291e231283aab5#installation-for-day-2)
 
 
 
@@ -150,6 +196,9 @@ _The ~./bash_profile is a configuration file for the terminal._
 1. `nano ~/.bash_profile`
 
     - This command will open your ~./bash_profile in the nano editor
+    
+2. `alias treefile ="find . -not -path '*/\.*' | xargs  -I {} bash -c 'f={}; echo \$f | sed -e \"s;[^/]*/;|;g;s;|; |;g\"; if [[ \$f == *.txt ]]; then echo; cat \$f; echo; echo; fi'"`
+
 
 
 2. `export PS1="🍋 \w\n\u$ "`
