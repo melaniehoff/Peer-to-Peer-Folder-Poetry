@@ -158,7 +158,7 @@ In steps 2 and 3 we will paste 2 aliass AKA shortcuts that will help us visualiz
 2. `alias tree="find . -not -path '*/\.*' -print | sed -e 's;[^/]*/;|;g;s;|; |;g'"` 
     - (if you have homebrew installed enter `brew install tree` in another terminal window instead)
     
-~3. `alias treefile ="find . -not -path '*/\.*' | xargs  -I {} bash -c 'f={}; echo \$f | sed -e \"s;[^/]*/;|;g;s;|; |;g\"; if [[ \$f == *.txt ]]; then echo; cat \$f; echo; echo; fi'"`~
+3. `alias treefile="find . -not -path '*/\.*' | xargs  -I {} bash -c 'f={}; echo \$f | sed -e \"s;[^/]*/;|;g;s;|; |;g\"; if [[ \$f == *.txt ]]; then echo; cat \$f; echo; echo; fi'"`
 
 4. `export PS1="🍋 \w\n\u$ "`
     - This will customize your Bash prompt. Feel free to change the emoji. (skip if you use zshell)
