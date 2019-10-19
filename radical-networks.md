@@ -105,7 +105,7 @@ workshop.
 🔴 Naming files and folders<br>
 🔴 All lowercase<br>
 🔴 No spaces. <br>
-    - Underscores and dashes are ok. for example: `my_file.txt` or `my-file.txt`
+    - Underscores and dashes are ok. for example: `my_file.txt` or `my-file.txt`<br>
 🔴 All files must have a file extension such as .txt<br>
 
 ## 🎲 Bash & Terminal commands
