@@ -1,16 +1,16 @@
 # P2P Folder Poetry Radical Networks
 
 ## Table of Contents
-- Preparation for Class _look here first 👀_
-- Agenda
-- Slides
-- Folder Poetry Zines & Examples
-- P2P Poetry Rules
-- Bash & Terminal Commands
-- Editing your .bash_profile
-- Dat
-- Workshop Description
-- Folder Poetry Theory
+- [Preparation for Class](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#preparation-for-class) _look here first 👀_
+- [Agenda](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#day-1-agenda)
+- [Slides](https://docs.google.com/presentation/d/1K6vC-erUczNtjtBB4Q8wDeJXCcRIrP_t_BttH_kDxKo/edit?usp=sharing)
+- [Folder Poetry Zines & Examples](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#folder-poetry-examples)
+- [P2P Poetry Rules](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#p2p-folder-poetry-rules)
+- [Bash & Terminal Commands](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#-bash--terminal-commands)
+- [Editing your .bash_profile](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#to-edit-your-bash_profile)
+- [Sharing on the P2P web](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#-sharing-our-poems-on-the-p2p-web)
+    - [P2P address book](https://docs.google.com/spreadsheets/d/1YPHB6c4ATzImkolcQz2nHPz1xm8n1AluqQrsI_R_sl4/edit?usp=sharing)
+- [Workshop Description & Theory](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#workshop-description)
 
 ## Preparation for Class
 - Download [this folder](https://melanie-hoff.com/folder-poetry/radical-networks/garden-of-forking-paths.zip) and move it to your Home directory
@@ -45,7 +45,8 @@ Gently explore your imagination and think about the following prompt. Write, dia
 
 
 # Day 1 Agenda
-- What is the story of your (folder) name?
+- Our Folder Names
+- Installation / Downloading / Preparation
 - Introduction: Melanie's files
 
 ### Part I: Folder Poetry
@@ -84,7 +85,7 @@ _The Desktop is a lie_
 _The network is a folder poem_
 `cd ~/folder-poetry`
 `dat share`
-copy the hash link into [this spreadsheet]()
+copy the hash link into [the P2P Address book](https://docs.google.com/spreadsheets/d/1YPHB6c4ATzImkolcQz2nHPz1xm8n1AluqQrsI_R_sl4/edit?usp=sharing)
 _______
 `dat clone XXXX`
 
@@ -92,8 +93,8 @@ _______
 ### [Workshop Slides](https://docs.google.com/presentation/d/1K6vC-erUczNtjtBB4Q8wDeJXCcRIrP_t_BttH_kDxKo/edit?usp=sharing)
 
 ### Folder Poetry Examples
-📒[Download: Folder Poetry - SFPC Yamaguchi Japan Zine](https://melanie-hoff.com/folder-poetry/sfpc-ycam/zine-pdfs-ycam-folder-poetry.zip)
-📒[Download: Folder Poetry - SFPC Detroit Zine](https://melanie-hoff.com/folder-poetry/sfpc-detroit/detroit-zine-reader.pdf.zip)
+📒[Download: Folder Poetry - SFPC Yamaguchi Japan Zine](https://melanie-hoff.com/folder-poetry/sfpc-ycam/zine-pdfs-ycam-folder-poetry.zip)<br>
+📒[Download: Folder Poetry - SFPC Detroit Zine](https://melanie-hoff.com/folder-poetry/sfpc-detroit/detroit-zine-reader.pdf.zip)<br>
 
 ### P2P Folder Poetry Rules
 _The artform of folder poetry is forgiving, Dat is not_
@@ -103,13 +104,13 @@ with each other via the Dat protocol. If you don't follow these rules, you will 
 still created folder poetry, they just wont become P2P folder poetry during this
 workshop.
 
-🔴 No empty folders.
-🔴 Every file has to contain text in it.
-🔴 Naming files and folders
-🔴 All lowercase
-🔴 No spaces. 
+🔴 No empty folders.<br>
+🔴 Every file has to contain text in it.<br>
+🔴 Naming files and folders<br>
+🔴 All lowercase<br>
+🔴 No spaces. <br>
     - Underscores and dashes are ok. for example: `my_file.txt` or `my-file.txt`
-🔴 All files must have a file extension such as .txt
+🔴 All files must have a file extension such as .txt<br>
 
 ## 🎲 Bash & Terminal commands
 
@@ -151,7 +152,7 @@ workshop.
 | CTRL + X , y , ENTER | exit and save changes             |
 
 
-### To edit your ~./bash_profile
+### Editing your ~./bash_profile
 
 _The ~./bash_profile is a configuration file for the terminal._
 
@@ -182,17 +183,18 @@ This part might feel tricky. Don't worry if you miss a step and encounter any pr
 - Open a totally new window in Terminal
 - `cd folder-poetry` this brings you into your folder-poetry folder
 - `dat share` this starts serving your folder on the P2P web
-- copy your hash into [this spreadsheet]() next to your name
+- copy your hash into [this spreadsheet](https://docs.google.com/spreadsheets/d/1YPHB6c4ATzImkolcQz2nHPz1xm8n1AluqQrsI_R_sl4/edit?usp=sharing) next to your name
 - minimize this window so you dont touch it. Your folder will only be sharing as long as this terminal window is active and dat share-ing.
 
 ### Networked Poems (cloning your neighbor's poem)
-- **In a new Terminal window:
+- **In a new Terminal window:**
 - `cd`
 - `mkdir folder-homes`
 - `cd folder-homes`
 - `dat clone + copy-someone-elses-poem-hash-from-spreadsheet`
--`ls` you should be able to see and explore their poem!
+- `ls` you should be able to see and explore their poem!
 
+___
 
 # Workshop Description
 
