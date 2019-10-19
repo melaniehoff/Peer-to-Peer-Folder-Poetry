@@ -14,9 +14,9 @@
     - [P2P address book](https://docs.google.com/spreadsheets/d/1YPHB6c4ATzImkolcQz2nHPz1xm8n1AluqQrsI_R_sl4/edit?usp=sharing)
 - [Workshop Description & Theory](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#workshop-description)
 
-## Preparation for Class
-**1.  Download [this folder](https://melanie-hoff.com/folder-poetry/radical-networks/garden-of-forking-paths.zip) and move it to your Home directory
-2. Install Node & Dat**
+## Preparation for Class (Download, Install, Prompt)
+**1.  Download [this folder](https://melanie-hoff.com/folder-poetry/radical-networks/garden-of-forking-paths.zip) and move it to your Home directory**<br>
+**2. Install Node & Dat**
 Run each of these Bash lines one after the other by pasting them in your Terminal and pressing ENTR.
 - `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.0/install.sh | bash`
 - `source ~/.bash_profile`
@@ -24,6 +24,7 @@ Run each of these Bash lines one after the other by pasting them in your Termina
 - `nvm use --lts`
 - `npm install -g dat`
 
+**3.**
 ### 🌳Prompt: Folder Poem as Home
 _What would your utopic, liberatory living environment look like?_
 
