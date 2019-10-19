@@ -172,10 +172,13 @@ In steps 2 and 3 we will paste 2 aliass AKA shortcuts that will help us visualiz
 
 ## Making our Folder Poems
 - `cd`
+- `mkdir folder-friends`
 - `mkdir folder-poetry`
 - `cd folder-poetry`
-- `mkdir myname-home`
-    - ^ this is where your folder poem will grow
+- `mkdir yourname-home`
+- `cd yourname-home`
+    - ^ where we'll make our poems
+
 
 ## 🕸 Sharing our Poems on the P2P Web
 
@@ -189,9 +192,7 @@ This part might feel tricky. Don't worry if you miss a step and encounter any pr
 
 ### Networked Poems (cloning your neighbor's poem)
 - **In a new Terminal window:**
-- `cd`
-- `mkdir folder-homes`
-- `cd folder-homes`
+- `cd folder-friends`
 - `dat clone + copy-someone-elses-poem-hash-from-spreadsheet`
 - `ls` you should be able to see and explore their poem!
 
