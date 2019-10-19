@@ -24,7 +24,7 @@ Run each of these Bash lines one after the other by pasting them in your Termina
 - `nvm use --lts`
 - `npm install -g dat`
 
-#### 3. 🌳Prompt: Folder Poem as Home
+### 3. 🌳Prompt: Folder Poem as Home
 _What would your utopic, liberatory living environment look like?_
 
 Gently explore your imagination and think about the following prompt. Write, diagram, or draw out your thoughts.
