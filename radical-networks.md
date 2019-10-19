@@ -1,4 +1,6 @@
-# P2P Folder Poetry Radical Networks
+# P2P Folder Poetry – Radical Networks
+
+![](https://melanie-hoff.com/poster.png)
 
 ## Table of Contents
 - [Preparation for Class](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#preparation-for-class) _look here first 👀_
