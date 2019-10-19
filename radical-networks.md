@@ -2,7 +2,7 @@
 
 ![](https://melanie-hoff.com/poster.png)
 
-## Table of Contents
+# Table of Contents
 - [Preparation for Class](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#preparation-for-class) _look here first 👀_
 - [Agenda](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#day-1-agenda)
 - [Slides](https://docs.google.com/presentation/d/1K6vC-erUczNtjtBB4Q8wDeJXCcRIrP_t_BttH_kDxKo/edit?usp=sharing)
@@ -14,7 +14,7 @@
     - [P2P address book](https://docs.google.com/spreadsheets/d/1YPHB6c4ATzImkolcQz2nHPz1xm8n1AluqQrsI_R_sl4/edit?usp=sharing)
 - [Workshop Description & Theory](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#workshop-description)
 
-## Preparation for Class (Download, Install, Prompt)
+# Preparation for Class (Download, Install, Prompt)
 **1.  Download [this folder](https://melanie-hoff.com/folder-poetry/radical-networks/garden-of-forking-paths.zip) and move it to your Home directory**<br>
 **2. Install Node & Dat**
 Run each of these Bash lines one after the other by pasting them in your Terminal and pressing ENTR.
@@ -24,8 +24,7 @@ Run each of these Bash lines one after the other by pasting them in your Termina
 - `nvm use --lts`
 - `npm install -g dat`
 
-**3.**
-### 🌳Prompt: Folder Poem as Home
+#### 3. 🌳Prompt: Folder Poem as Home
 _What would your utopic, liberatory living environment look like?_
 
 Gently explore your imagination and think about the following prompt. Write, diagram, or draw out your thoughts.
@@ -55,18 +54,15 @@ Gently explore your imagination and think about the following prompt. Write, dia
 
 **Reintroduction to computers & computing**
 _Programming is about the computer, the programmer, the relationship they have with each other, and the environments they create together._ 
-- Folders/file systems
+- Folders & file systems
 - What is Folder Poetry and how will we be creating it?
-- What does it mean to put things into discrete categories
+- Discretely categorizing things. The affordances of folders.
 - Examples of folder projects
 - Folders Anonymous
-- Folder Poetry on the regular internet
-    - [folderpoetry.club](folderpoetry.club)
-    - Laurel Schwulst's adapatation of Folder Poetry in their _Writing as Metadata_ class at Yale: [metadatarocks.nfshost.com](metadatarocks.nfshost.com)
 
 ### Part II: Terminal & Bash
 _The Desktop is a lie_
-- The terminal and Bash
+- [Terminal and Bash commands](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#-bash--terminal-commands)
 - Introduction of navigating the command line by walking through the-garden-of-forking-paths
     - [Download a garden-of-forking-paths](https://melanie-hoff.com/folder-poetry/radical-networks/garden-of-forking-paths.zip) and move it to your Home folder
     - growing the garden
@@ -74,25 +70,25 @@ _The Desktop is a lie_
 - [Editing bash_profile](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#editing-your-bash_profile)
 
 ### Part III
-- Folder Poem as Home
-`cd`
-`mkdir folder-poetry`
-`cd folder-poetry`
-`mkdir myname-home`
-^ this is where your folder poem will grow
+[_Making our Folder Poem Homes_](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#making-our-folder-poems)
+- [Bash commands](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#-bash--terminal-commands)
+- [Folder Poetry Rules](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#p2p-folder-poetry-rules)
 
 ### Part IIII: Peer-to-Peer Poetry with Dat
-_The network is a folder poem_
+[_The network is a folder poem_](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#-sharing-our-poems-on-the-p2p-web)
 
 
 
 ### [Workshop Slides](https://docs.google.com/presentation/d/1K6vC-erUczNtjtBB4Q8wDeJXCcRIrP_t_BttH_kDxKo/edit?usp=sharing)
 
-### Folder Poetry Examples
+## Folder Poetry Examples
 📒[Download: Folder Poetry - SFPC Yamaguchi Japan Zine](https://melanie-hoff.com/folder-poetry/sfpc-ycam/zine-pdfs-ycam-folder-poetry.zip)<br>
 📒[Download: Folder Poetry - SFPC Detroit Zine](https://melanie-hoff.com/folder-poetry/sfpc-detroit/detroit-zine-reader.pdf.zip)<br>
+- Folder Poetry on the regular internet
+    - [folderpoetry.club](folderpoetry.club)
+    - Laurel Schwulst's adapatation of Folder Poetry in their _Writing as Metadata_ class at Yale: [metadatarocks.nfshost.com](metadatarocks.nfshost.com)
 
-### P2P Folder Poetry Rules
+## P2P Folder Poetry Rules
 _The artform of folder poetry is forgiving, Dat is not_
 
 P2P folder poetry has specific requirements in order for your poems to be shared
@@ -148,7 +144,7 @@ workshop.
 | CTRL + X , y , ENTER | exit and save changes             |
 
 
-### Editing your ~./bash_profile
+## Editing your ~./bash_profile
 
 _The ~./bash_profile is a configuration file for the terminal._
 
@@ -171,11 +167,11 @@ In steps 2 and 3 we will paste 2 aliass AKA shortcuts that will help us visualiz
     - reboot your terminal
 
 ## Making our Folder Poems
-`cd`
-`mkdir folder-poetry`
-`cd folder-poetry`
-`mkdir myname-home`
-^ this is where your folder poem will grow
+- `cd`
+- `mkdir folder-poetry`
+- `cd folder-poetry`
+- `mkdir myname-home`
+    - ^ this is where your folder poem will grow
 
 ## 🕸 Sharing our Poems on the P2P Web
 
