@@ -1,6 +1,6 @@
 # P2P Folder Poetry – SFPC Fall 2019
 
-![](https://melanie-hoff.com/poster.png)
+![](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/sfpc-1.jpg)
 
 # Preparation for Class (Install & Prompt)
 ## 1. Install Node & Dat
@@ -39,6 +39,9 @@ Gently explore your imagination and think about the following prompt. Write sent
 - Folder Poetry on the default (non P2P) internet
     - [folderpoetry.club](folderpoetry.club)
     - Laurel Schwulst's adapatation of Folder Poetry in their _Writing as Metadata_ class at Yale: [metadatarocks.nfshost.com](metadatarocks.nfshost.com)
+    
+<br>
+![](https://melanie-hoff.com/poster.png)
 
  ````
         ,,,                      ,,,
