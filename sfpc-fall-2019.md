@@ -2,18 +2,6 @@
 
 ![](https://melanie-hoff.com/poster.png)
 
-# Table of Contents
-- [Preparation for Class](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#preparation-for-class) _look here first 👀_
-- [Agenda](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#day-1-agenda)
-- [Slides](https://docs.google.com/presentation/d/1K6vC-erUczNtjtBB4Q8wDeJXCcRIrP_t_BttH_kDxKo/edit?usp=sharing)
-- [Folder Poetry Zines & Examples](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#folder-poetry-examples)
-- [P2P Poetry Rules](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#p2p-folder-poetry-rules)
-- [Bash & Terminal Commands](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#-bash--terminal-commands)
-- [Editing your .bash_profile](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#to-edit-your-bash_profile)
-- [Sharing on the P2P web](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#-sharing-our-poems-on-the-p2p-web)
-    - [P2P address book](https://docs.google.com/spreadsheets/d/1YPHB6c4ATzImkolcQz2nHPz1xm8n1AluqQrsI_R_sl4/edit?usp=sharing)
-- [Workshop Description & Theory](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/radical-networks.md#workshop-description)
-
 # Preparation for Class (Download, Install, Prompt)
 **1. Install Node & Dat**
 Run each of these Bash lines one after the other by pasting them in your Terminal and pressing ENTR.
