@@ -41,6 +41,7 @@ Gently explore your imagination and think about the following prompt. Write sent
     - Laurel Schwulst's adapatation of Folder Poetry in their _Writing as Metadata_ class at Yale: [metadatarocks.nfshost.com](metadatarocks.nfshost.com)
     
 <br>
+
 ![](https://melanie-hoff.com/poster.png)
 
  ````
