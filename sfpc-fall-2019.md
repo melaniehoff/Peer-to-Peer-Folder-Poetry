@@ -9,8 +9,10 @@
 - **Peer-to-peer** computing is a way to make distributed networks in which each computer can act as a server for the others, allowing shared access to files without the need for a central server.
 - **Dat** is a data distribution tool for publishing on peer-to-peer networks.
 
-# Preparation for Class (Install, Consider the Prompt, & Read Folder Poetry)
-## 1. Install Node & Dat
+## Preparation before Class 
+**Install, Consider the Prompt, & Read Folder Poetry**
+
+### 1. Install Node & Dat
 Run each of these Bash lines one after the other by pasting them in your Terminal application and pressing ENTR. Don't worry if you've never used terminal before or you're not comfortable with it! There will be time in class to install if you dont get to it before class. 
 
 - `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.0/install.sh | bash`
@@ -20,7 +22,7 @@ Run each of these Bash lines one after the other by pasting them in your Termina
 - `npm install -g dat`
 
 
-## 2. 🌳Prompt: Folder Poem as Home
+### 2. 🌳Prompt: Folder Poem as Home
 _What would your utopic, liberatory living environment look like?_
 
 Gently explore your imagination and think about the following prompt. Write sentences or lists, draw diagrams, or sketch with any materials at hand your response to these guiding questions.
@@ -40,7 +42,7 @@ Gently explore your imagination and think about the following prompt. Write sent
         - A school where each room is devoted to something you would like to learn collectively with those you share a home with.
         - A multi-generational interconnected courtyard housing compound with rooms for climbing, rooms for growing, rooms for cooking, rooms for learning.
 
-## 3. Read Folder Poetry
+### 3. Read Folder Poetry
 **Folder Poetry Examples**
 - 📒[Download: Folder Poetry - SFPC Yamaguchi Japan Zine](https://melanie-hoff.com/folder-poetry/sfpc-ycam/zine-pdfs-ycam-folder-poetry.zip)<br>
 - 📒[Download: Folder Poetry - SFPC Detroit Zine](https://melanie-hoff.com/folder-poetry/sfpc-detroit/detroit-zine-reader.pdf.zip)<br>
