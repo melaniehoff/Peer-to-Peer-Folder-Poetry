@@ -34,6 +34,7 @@ Gently explore your imagination and think about the following prompt. Write sent
 
 
 
+ ````
         ,,,                      ,,,
        {{{}}    ,,,             {{{}}    ,,,
     ,,, ~Y~    {{{}},,,      ,,, ~Y~    {{{}},,, 
@@ -44,6 +45,7 @@ Gently explore your imagination and think about the following prompt. Write sent
     \|/\\|/\|/ \\|~Y~//  \|/ \|/\\|/\|/ \\|~Y~//  \|/
     \|//\|/\|/,\\|/|/|// \|/ \|//\|/\|/,\\|/|/|// \|/ 
   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ```
 
 
 
