@@ -36,7 +36,7 @@ Gently explore your imagination and think about the following prompt. Write sent
 **Folder Poetry Examples**
 - 📒[Download: Folder Poetry - SFPC Yamaguchi Japan Zine](https://melanie-hoff.com/folder-poetry/sfpc-ycam/zine-pdfs-ycam-folder-poetry.zip)<br>
 - 📒[Download: Folder Poetry - SFPC Detroit Zine](https://melanie-hoff.com/folder-poetry/sfpc-detroit/detroit-zine-reader.pdf.zip)<br>
-- Folder Poetry on the regular (non P2P) internet
+- Folder Poetry on the default (non P2P) internet
     - [folderpoetry.club](folderpoetry.club)
     - Laurel Schwulst's adapatation of Folder Poetry in their _Writing as Metadata_ class at Yale: [metadatarocks.nfshost.com](metadatarocks.nfshost.com)
 
