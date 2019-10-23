@@ -193,7 +193,7 @@ This part might feel tricky. Don't worry if you miss a step and encounter any pr
 - Open a totally new window in Terminal
 - `cd folder-poetry` this brings you into your folder-poetry folder
 - `dat share` this starts serving your folder on the P2P web
-- copy your hash into [this spreadsheet](https://docs.google.com/spreadsheets/d/1YPHB6c4ATzImkolcQz2nHPz1xm8n1AluqQrsI_R_sl4/edit?usp=sharing) next to your name
+- copy your hash into [this spreadsheet](https://docs.google.com/spreadsheets/d/1NXW5iyCl1lgAJezwOQV1T0PLwSkjF4ILNlRLv5CzCpg/edit?usp=sharing) next to your name
 - minimize this window so you dont touch it. Your folder will only be sharing as long as this terminal window is active and dat share-ing.
 
 ### Networked Poems (cloning your neighbor's poem)
