@@ -2,7 +2,7 @@
 
 ![](https://melanie-hoff.com/poster.png)
 
-# Preparation for Class (Download, Install, Prompt)
+# Preparation for Class (Install & Prompt)
 **1. Install Node & Dat**
 Run each of these Bash lines one after the other by pasting them in your Terminal and pressing ENTR.
 - `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.0/install.sh | bash`
@@ -11,10 +11,11 @@ Run each of these Bash lines one after the other by pasting them in your Termina
 - `nvm use --lts`
 - `npm install -g dat`
 
+
 **2. 🌳Prompt: Folder Poem as Home**
 _What would your utopic, liberatory living environment look like?_
 
-Gently explore your imagination and think about the following prompt. Write, diagram, or draw out your thoughts.
+Gently explore your imagination and think about the following prompt. Write sentences or lists, draw diagrams, or sketch with any materials at hand your response to these guiding questions.
 
 - **Imagine a kind of housing or space that could hold all your friends, chosen family, and maybe your biological family too.**
 - **This home does not have to be realistic or even physically probable.**
@@ -30,6 +31,20 @@ Gently explore your imagination and think about the following prompt. Write, dia
         - A forest of folders where each resident is tree and insect files carry messages back and forth between them.
         - A school where each room is devoted to something you would like to learn collectively with those you share a home with.
         - A multi-generational interconnected courtyard housing compound with rooms for climbing, rooms for growing, rooms for cooking, rooms for learning.
+
+
+
+        ,,,                      ,,,
+       {{{}}    ,,,             {{{}}    ,,,
+    ,,, ~Y~    {{{}},,,      ,,, ~Y~    {{{}},,, 
+   {{}}} |/,,,  ~Y~{{}}}    {{}}} |/,,,  ~Y~{{}}}
+    ~Y~ \|{{}}}/\|/ ~Y~  ,,, ~Y~ \|{{}}}/\|/ ~Y~  ,,,
+    \|/ \|/~Y~  \|,,,|/ {{}}}\|/ \|/~Y~  \|,,,|/ {{}}}
+    \|/ \|/\|/  \{{{}}/  ~Y~ \|/ \|/\|/  \{{{}}/  ~Y~
+    \|/\\|/\|/ \\|~Y~//  \|/ \|/\\|/\|/ \\|~Y~//  \|/
+    \|//\|/\|/,\\|/|/|// \|/ \|//\|/\|/,\\|/|/|// \|/ 
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 
 
 # Agenda
