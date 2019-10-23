@@ -25,7 +25,7 @@ Run each of these Bash lines one after the other by pasting them in your Termina
 ### 2. 🌳Prompt: Folder Poem as Home
 _What would your utopic, liberatory living environment look like?_
 
-Gently explore your imagination and think about the following prompt. Write sentences or lists, draw diagrams, or sketch with any materials at hand your response to these guiding questions.
+**Gently explore your imagination and think about the following prompt. Come to class with writing, diagrams, or sketches in response to these guiding questions.**
 
 - **Imagine a kind of housing or space that could hold all your friends, chosen family, and maybe your biological family too.**
 - **This home does not have to be realistic or even physically probable.**
