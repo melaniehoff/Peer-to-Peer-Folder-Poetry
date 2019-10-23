@@ -2,9 +2,17 @@
 
 ![](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/sfpc-1.jpg)
 
-# Preparation for Class (Install & Prompt)
+## Terms 
+- **Folder Poetry** is the practice of using the structure of computer folder organization as a new kind of poetic form like the haiku or iambic pentameter. By naming and nesting folders and files, we can create unfolding narratives, rhythmic prose, and choose-your-own-adventure poetry.
+- **The Terminal** is desktop application to control and make changes to your operating system by typing text commands. In this class we'll use the terminal to create folder poetry.
+- **Bash** is the programming language we'll use in the terminal, often one line at a time, but we can also put Bash code in a file and run that file.
+- **Peer-to-peer** computing is a way to make distributed networks in which each computer can act as a server for the others, allowing shared access to files without the need for a central server.
+- **Dat** is a data distribution tool for publishing on peer-to-peer networks.
+
+# Preparation for Class (Install, Consider the Prompt, & Read Folder Poetry)
 ## 1. Install Node & Dat
-Run each of these Bash lines one after the other by pasting them in your Terminal and pressing ENTR.
+Run each of these Bash lines one after the other by pasting them in your Terminal application and pressing ENTR. Don't worry if you've never used terminal before or you're not comfortable with it! There will be time in class to install if you dont get to it before class. 
+
 - `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.0/install.sh | bash`
 - `source ~/.bash_profile`
 - `nvm install --lts`
