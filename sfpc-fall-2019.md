@@ -3,7 +3,7 @@
 ![](https://melanie-hoff.com/poster.png)
 
 # Preparation for Class (Install & Prompt)
-**1. Install Node & Dat**
+## 1. Install Node & Dat
 Run each of these Bash lines one after the other by pasting them in your Terminal and pressing ENTR.
 - `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.0/install.sh | bash`
 - `source ~/.bash_profile`
@@ -12,7 +12,7 @@ Run each of these Bash lines one after the other by pasting them in your Termina
 - `npm install -g dat`
 
 
-**2. 🌳Prompt: Folder Poem as Home**
+## 2. 🌳Prompt: Folder Poem as Home
 _What would your utopic, liberatory living environment look like?_
 
 Gently explore your imagination and think about the following prompt. Write sentences or lists, draw diagrams, or sketch with any materials at hand your response to these guiding questions.
@@ -32,7 +32,13 @@ Gently explore your imagination and think about the following prompt. Write sent
         - A school where each room is devoted to something you would like to learn collectively with those you share a home with.
         - A multi-generational interconnected courtyard housing compound with rooms for climbing, rooms for growing, rooms for cooking, rooms for learning.
 
-
+## 3. Read Folder Poetry
+**Folder Poetry Examples**
+📒[Download: Folder Poetry - SFPC Yamaguchi Japan Zine](https://melanie-hoff.com/folder-poetry/sfpc-ycam/zine-pdfs-ycam-folder-poetry.zip)<br>
+📒[Download: Folder Poetry - SFPC Detroit Zine](https://melanie-hoff.com/folder-poetry/sfpc-detroit/detroit-zine-reader.pdf.zip)<br>
+- Folder Poetry on the regular internet
+    - [folderpoetry.club](folderpoetry.club)
+    - Laurel Schwulst's adapatation of Folder Poetry in their _Writing as Metadata_ class at Yale: [metadatarocks.nfshost.com](metadatarocks.nfshost.com)
 
  ````
         ,,,                      ,,,
@@ -90,16 +96,6 @@ _The network is a folder poem, be the poet_
 - Data on the distributed web is not indexed which means it is not easily searchable
 - We are creating a local network island away from the default(larger) internet
 - Sharing our Poems on the P2P Web 
-
-
-_________
-
-## Folder Poetry Examples
-📒[Download: Folder Poetry - SFPC Yamaguchi Japan Zine](https://melanie-hoff.com/folder-poetry/sfpc-ycam/zine-pdfs-ycam-folder-poetry.zip)<br>
-📒[Download: Folder Poetry - SFPC Detroit Zine](https://melanie-hoff.com/folder-poetry/sfpc-detroit/detroit-zine-reader.pdf.zip)<br>
-- Folder Poetry on the regular internet
-    - [folderpoetry.club](folderpoetry.club)
-    - Laurel Schwulst's adapatation of Folder Poetry in their _Writing as Metadata_ class at Yale: [metadatarocks.nfshost.com](metadatarocks.nfshost.com)
 
 _____
 
