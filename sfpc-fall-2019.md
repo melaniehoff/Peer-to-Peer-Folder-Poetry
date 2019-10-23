@@ -82,7 +82,7 @@ _Making our Folder Poem Homes_
 - Folder Poetry Rules
 
 ### Part IIII: Peer-to-Peer Poetry with Dat
-_The network is a folder poem_
+_The network is a folder poem, be the poet_
 - P2P introduction and description of DAT and "the cloud"
 - Dat is a protocol for sharing data between computers.
 - Dat’s strengths are that data is hosted and distributed by many computers on the network, that it can work offline or with poor connectivity
