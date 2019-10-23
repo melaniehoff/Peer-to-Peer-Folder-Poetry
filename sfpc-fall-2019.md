@@ -10,7 +10,7 @@
 - **Dat** is a data distribution tool for publishing on peer-to-peer networks.
 
 ## Preparation before Class 
-**Install, Consider the Prompt, & Read Folder Poetry**
+**Install, Respond to the Prompt, & Read Folder Poetry**
 
 ### 1. Install Node & Dat
 Run each of these Bash lines one after the other by pasting them in your Terminal application and pressing ENTR. Don't worry if you've never used terminal before or you're not comfortable with it! There will be time in class to install if you dont get to it before class. 
