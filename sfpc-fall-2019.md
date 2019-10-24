@@ -12,6 +12,7 @@
 - [Sharing on the P2P web](#-sharing-our-poems-on-the-p2p-web)
     - [P2P address book](https://docs.google.com/spreadsheets/d/1NXW5iyCl1lgAJezwOQV1T0PLwSkjF4ILNlRLv5CzCpg/edit?usp=sharing)
 - [Workshop Description & Theory](#workshop-description)
+- [Homework](#homework)
 
 ## Terms 
 - **Folder Poetry** is the practice of using the structure of computer folder organization as a new kind of poetic form like the haiku or iambic pentameter. By naming and nesting folders and files, we can create unfolding narratives, rhythmic prose, and choose-your-own-adventure poetry.
@@ -214,6 +215,15 @@ This part might feel tricky. Don't worry if you miss a step and encounter any pr
 - `dat clone + copy-someone-elses-poem-hash-from-spreadsheet`
 - `ls` you should be able to see and explore their poem!
 
+## Homework for Oct 24th 
+
+**Plan out and write a folder poem over the next week**
+- It can be a continuation of the Folder Poem as Home Prompt or something else you desire
+
+_I will be creating a folder poetry zine from this class to share and distribute at the showcase with your folder poems alongside your folder poem drawings_
+
+- Draw / sketch this poem first on paper to bring to class, then code it using Bash in the terminal (avoid the finder)
+- Browse these playful [Distributed projects & resources](https://www.are.na/melanie-hoff/sweet-er-distributed-projects) and consider ways we could use a Dat server together at SFPC : )
 ___
 
 # Workshop Description
