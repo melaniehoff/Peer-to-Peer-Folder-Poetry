@@ -2,6 +2,17 @@
 
 ![](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/sfpc-1.jpg)
 
+# Table of Contents
+- [Preparation for Class](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/sfpc-fall-2019.md#preparation-before-class) _look here first 👀_
+- [Agenda](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/sfpc-fall-2019.md#agenda)
+- [Slides](https://docs.google.com/presentation/d/1VoU8IQrp-GTEIzVTRag_3G_Kt_bAv-kAO_X7ezrorCo/edit?usp=sharing)
+- [P2P Poetry Rules & Bash Commands](#p2p-folder-poetry-rules)
+    - [Bash Drawings from Taeyoon](https://docs.google.com/presentation/d/1WV_vFHtKB7BUBc3P_oGVlLry6W_8K_fJkJiWzisXonY/edit#slide=id.g60e8df3e27_0_0)
+- [Editing your .bash_profile](#to-edit-your-bash_profile)
+- [Sharing on the P2P web](#-sharing-our-poems-on-the-p2p-web)
+    - [P2P address book](https://docs.google.com/spreadsheets/d/1NXW5iyCl1lgAJezwOQV1T0PLwSkjF4ILNlRLv5CzCpg/edit?usp=sharing)
+- [Workshop Description & Theory](#workshop-description)
+
 ## Terms 
 - **Folder Poetry** is the practice of using the structure of computer folder organization as a new kind of poetic form like the haiku or iambic pentameter. By naming and nesting folders and files, we can create unfolding narratives, rhythmic prose, and choose-your-own-adventure poetry.
 - **The Terminal** is desktop application to control and make changes to your operating system by typing text commands. In this class we'll use the terminal to create folder poetry.
@@ -56,6 +67,7 @@ _What would your utopic, liberatory living environment look like?_
 
 
 # Agenda
+- [Download Garden](https://melanie-hoff.com/folder-poetry/sfpc-2019/garden-of-forking-paths.zip)
 - Our Folder Names
 - Preparation / Installation / Downloading 
 - Introduction: Melanie's files
@@ -74,7 +86,7 @@ _Programming is about the computer, the programmer, the relationship they have w
 _The Desktop is a lie_
 - Terminal and Bash commands
 - Introduction of navigating the command line by walking through the-garden-of-forking-paths
-    - Download the garden
+    - [Download the garden](https://melanie-hoff.com/folder-poetry/sfpc-2019/garden-of-forking-paths.zip)
     - growing the garden
 - Anatomy of Bash Prompt 
 - Editing bash_profile
