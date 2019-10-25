@@ -279,7 +279,17 @@ ___
     - `curl https://gist.githubusercontent.com/solon/27106a5389c61dcb83fb25fa9c20787d/raw/folder-spell.sh > ~/folder-spell.sh && chmod u+x ~/folder-spell.sh && echo $'folder-spell() {\n ~/folder-spell.sh \"$@\" \n}' >> ~/.bash_profile`
 -   `source ~/.bash_profile`
 
+**Usage**
 
+- `folder-spell these are words "this is some text"`
+-  ![](https://melanie-hoff.com/folder-spell.png)
+
+
+- Another example usage:
+    - `folder-spell this is a folder poem generator "the first words you write will become a series of nested folders. The text within quotations will become the contents of a text file"`<br/><br/>
+
+
+___________
 
  ````
         ,,,                      ,,,
