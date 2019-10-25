@@ -92,8 +92,9 @@ Thank you these collaborators and friends for guiding and inspiring Peer-to-Peer
 - [Neta Bomani](https://www.netabomani.com/) for designing and printing the first [Folder Poetry with Bash zine](https://github.com/melaniehoff/folderpoetry/blob/master/assets/pdf/folder_poetry_zine_pages.pdf) in Detroit June 2019.
 - [Callil Capuozzo](https://callil.com/) for guiding me through how Dat works and suggesting ways to integrate Folder Poetry with Dat
 - [Laurel Shwulst](http://laurelschwulst.com/) for their many tender Dat Projects and for creating http://p2pforever.org/, a charming and helpful P2P resource
-- [Lauren Gardner](http://laurengardner.com/) for iniviting me to teach Folder Poetry at SFPC Fall 2019 and for helping to create sustainable spaces for creative ideas always
 - [Dan Taeyoung](https://dantaeyoung.com/) for giving incredible feedback
+- [Lauren Gardner](http://laurengardner.com/) for iniviting me to teach Folder Poetry at SFPC Fall 2019 and for helping to create sustainable spaces for creative ideas always
+
 
 
 
