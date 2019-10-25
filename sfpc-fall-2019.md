@@ -266,6 +266,9 @@ ___
 
 `for i in {1..2000}; do printf ' ♡ 📂 → ➩ ➪ ➫ ➬ ➭ ➮ '; done;` will create an emoji for loop
 
+___
+
+
 ### 🔮 `folder-spell`
 
 `folder-spell` is a folder poetry generator that came out of a conversation our TA Brian Solon and i had on the bus yesterday. It makes writing sentences with folders go very quickly.
