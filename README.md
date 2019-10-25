@@ -90,9 +90,10 @@ From the command line, if we have navigated to the Desktop folder but try to per
 - [Max Fowler](https://mfowler.info/) for creating [Oasis](https://mfowler.info/work/oasis/) which was one of the early sparks for me creating spatial metaphors with folders and was a beautiful example of collaborating on these folder structures through SSH
 - [Taeyoon Choi](http://taeyoonchoi.com/) for inviting me to teach this class at SFPC in Detroit and Japan and for suggesting I name it Folder Poetry instead of Folder Structure Narratives. Another thank you for encouraging me to bring Folder Poetry to the P2P web. And for the [Bash drawings](https://docs.google.com/presentation/d/1WV_vFHtKB7BUBc3P_oGVlLry6W_8K_fJkJiWzisXonY/edit#slide=id.g60e8df3e27_0_113) they created for Folder Poetry
 - [Neta Bomani](https://www.netabomani.com/) for designing and printing the first [Folder Poetry with Bash zine](https://github.com/melaniehoff/folderpoetry/blob/master/assets/pdf/folder_poetry_zine_pages.pdf)
+- [Brian Solon](https://twitter.com/briansolon?lang=en) for being the Folder Poetry TA twice and writing custom Folder Poetry software students to use in the terminal
 - [Callil Capuozzo](https://callil.com/) for guiding me through how Dat works and suggesting ways to integrate Folder Poetry with Dat
 - [Laurel Shwulst](http://laurelschwulst.com/) for their many tender Dat Projects and for creating http://p2pforever.org/, a charming and helpful P2P resource
-- [Dan Taeyoung](https://dantaeyoung.com/) for giving incredible feedback
+- [Dan Taeyoung](https://dantaeyoung.com/) for giving incredible feedback on the class structure
 - [Lauren Gardner](http://laurengardner.com/) for iniviting me to teach Folder Poetry at SFPC Fall 2019 and for helping to create sustainable spaces for creative ideas always
 
 
