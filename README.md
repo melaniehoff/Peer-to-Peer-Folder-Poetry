@@ -85,7 +85,7 @@ From the command line, if we have navigated to the Desktop folder but try to per
  
 ## Acknowledgments & Thank You
 
-Thank you these collaborators and friends for guiding and inspiring Peer-to-Peer Folder Poetry 
+**_Thank you these collaborators and friends for guiding and inspiring Peer-to-Peer Folder Poetry_**
 
 - [Max Fowler](https://mfowler.info/) for creating [Oasis](https://mfowler.info/work/oasis/) which was one of the early sparks for me creating spatial metaphors with folders and was a beautiful example of collaborating on these folder structures through SSH
 - [Taeyoon Choi](http://taeyoonchoi.com/) for inviting me to teach this class at SFPC in Detroit and Japan and for suggesting I name it Folder Poetry instead of Folder Structure Narratives. Thank you also for encouraging me to bring Folder Poetry to the P2P web & for the [Bash drawings](https://docs.google.com/presentation/d/1WV_vFHtKB7BUBc3P_oGVlLry6W_8K_fJkJiWzisXonY/edit#slide=id.g60e8df3e27_0_113) they created for Folder Poetry in Detroit June 2019!
