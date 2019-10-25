@@ -212,7 +212,7 @@ This part might feel tricky. Don't worry if you miss a step and encounter any pr
 ### Networked Poems (cloning your neighbor's poem)
 - **In a new Terminal window:**
 - `cd folder-friends`
-- `dat clone + copy-someone-elses-poem-hash-from-spreadsheet`
+- `dat clone someone-elses-poem-hash-from-spreadsheet`
 - `ls` you should be able to see and explore their poem!
 
 ## Homework for Oct 24th 
