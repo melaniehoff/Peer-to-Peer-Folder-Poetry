@@ -12,6 +12,9 @@ This workshop assumes no coding experience and simultaneously takes the position
 
 **[Always Already Programming](#always-already-programming)**
 
+ 
+**[Bash Drawings made for Folder Poetry by Taeyoon Choi]**(https://docs.google.com/presentation/d/1WV_vFHtKB7BUBc3P_oGVlLry6W_8K_fJkJiWzisXonY/edit#slide=id.g60e8df3e27_0_113)
+
 
 ## Workshops
 _P2P Folder Poetry has been taught in multiple places. These are the notes and slides for each place._
@@ -79,7 +82,21 @@ From the command line, if we have navigated to the Desktop folder but try to per
  
  ___
  
- [Bash Drawings made for Folder Poetry by Taeyoon Choi](https://docs.google.com/presentation/d/1WV_vFHtKB7BUBc3P_oGVlLry6W_8K_fJkJiWzisXonY/edit#slide=id.g60e8df3e27_0_113)
+ 
+## Acknowledgments & Thank You
+
+Thank you these collaborators and friends for guiding and inspiring Peer-to-Peer Folder Poetry 
+
+- [Max Fowler](https://mfowler.info/) for creating [Oasis](https://mfowler.info/work/oasis/) which was one of the early sparks for me creating spatial metaphors with folders and was a beautiful example of collaborating on these folder structures through SSH
+- [Taeyoon Choi](http://taeyoonchoi.com/) for inviting me to teach this class at SFPC in Detroit and Japan and for suggesting I name it Folder Poetry instead of Folder Structure Narratives. Thank you also for encouraging me to bring Folder Poetry to the P2P web & for the [Bash drawings](https://docs.google.com/presentation/d/1WV_vFHtKB7BUBc3P_oGVlLry6W_8K_fJkJiWzisXonY/edit#slide=id.g60e8df3e27_0_113) they created for Folder Poetry in Detroit June 2019!
+- [Callil Capuozzo](https://callil.com/) for guiding me through how Dat works and suggesting ways to integrate Folder Poetry with Dat
+- [Laurel Shwulst](http://laurelschwulst.com/) for their many tender Dat Projects and for creating http://p2pforever.org/, a charming and helpful P2P resource
+- [Neta Bomani](https://www.netabomani.com/) for designing and printing the first [Folder Poetry with Bash zine](https://github.com/melaniehoff/folderpoetry/blob/master/assets/pdf/folder_poetry_zine_pages.pdf) in Detroit June 2019.
+- [Lauren Gardner](http://laurengardner.com/) for iniviting me to teach Folder Poetry at SFPC Fall 2019 and for helping to create sustainable spaces for creative ideas always.
+
+
+
+
  
 
     
