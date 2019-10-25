@@ -13,7 +13,7 @@ This workshop assumes no coding experience and simultaneously takes the position
 **[Always Already Programming](#always-already-programming)**
 
  
-**[Bash Drawings made for Folder Poetry by Taeyoon Choi]**(https://docs.google.com/presentation/d/1WV_vFHtKB7BUBc3P_oGVlLry6W_8K_fJkJiWzisXonY/edit#slide=id.g60e8df3e27_0_113)
+**[Bash Drawings made for Folder Poetry by Taeyoon Choi](https://docs.google.com/presentation/d/1WV_vFHtKB7BUBc3P_oGVlLry6W_8K_fJkJiWzisXonY/edit#slide=id.g60e8df3e27_0_113)**
 
 
 ## Workshops
