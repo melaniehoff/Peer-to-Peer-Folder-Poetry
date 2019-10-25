@@ -93,7 +93,7 @@ From the command line, if we have navigated to the Desktop folder but try to per
 - [Teikaut](https://www.instagram.com/teikaut/?hl=en) for printing the second Folder Poetry zine on Risograph
 - [Brian Solon](https://twitter.com/briansolon?lang=en) for being the Folder Poetry TA twice and writing custom Folder Poetry software students to use in the terminal
 - [Callil Capuozzo](https://callil.com/) for guiding me through how Dat works and suggesting ways to integrate Folder Poetry with Dat
-- [Laurel Shwulst](http://laurelschwulst.com/) for their many tender Dat Projects and for creating http://p2pforever.org/, a charming and helpful P2P resource
+- [Laurel Schwulst](http://laurelschwulst.com/) for her many tender Dat Projects and for creating http://p2pforever.org/, a charming and helpful P2P resource
 - [Dan Taeyoung](https://dantaeyoung.com/) for giving incredible feedback on the class structure
 - [Lauren Gardner](http://laurengardner.com/) for iniviting me to teach Folder Poetry at SFPC Fall 2019 and for helping to create sustainable spaces for creative ideas always
 
