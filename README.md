@@ -60,12 +60,11 @@ file path | tells you the location of a file in a system. for example `users/use
 
 # Always Already Programming
 
+Everyone who interacts with computers has—in important ways—always already been programming them. Why are the ideas of a programmer and a user so divorced from each other? The distinction between programmer and user is reinforced and maintained by a tech industry that benefits from a population rendered computationally passive. 
 
 Every time you make a folder or rename a file on your computer, the actions you take through moving your mouse and clicking on buttons, have an equivalent text command. When you use a visual interface (called a GUI) text commands are still being fired in the background which eventually compile to binary. Using bash in the terminal is a way to get a little closer to the metal and a little further along in uncovering the mechanics of our most common devices.
 
-Everyone who interacts with computers has, in very real ways already been programming. The distinction between programmer and user is maintained by a tech industry that benefits from a population rendered computationally passive. 
-
-Together we can build up and cultivate one another’s agency to shape technology and online spaces that support and care for each other and our communities. 
+Together we can build up and cultivate one another’s agency to shape technology and online spaces that support and care for each other. 
     
 
 ## To create our folder poetry, we will use Bash in the terminal. To share our folder poetry, we will use Dat.
