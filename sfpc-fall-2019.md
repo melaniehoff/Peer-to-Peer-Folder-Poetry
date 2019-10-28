@@ -220,7 +220,7 @@ This part might feel tricky. Don't worry if you miss a step and encounter any pr
 **Draw and code a folder poem over the next week**
 It can be a continuation of the Folder Poem as Home Prompt or something else you desire
 
-**Important**
+**Important:**
 - Draw / sketch a folder poem first on paper
     - Drop photos of your sketch in [this paper doc](https://paper.dropbox.com/doc/Folder-Poem-Drawings--AnhncalFlfX36gKb6cpu2AJZAg-gh1MtJqX5lmPC0ZiixkeA)
 - Write & code your poem using Bash in the terminal (avoid the finder) 
@@ -228,7 +228,7 @@ It can be a continuation of the Folder Poem as Home Prompt or something else you
     
 _I will be creating a folder poetry zine from this class to share and distribute at the showcase with your folder poems alongside your folder poem drawings_
 
-**Suggested**
+**Suggested:**
 - Check out Laurel’s tender P2P resource: http://p2pforever.org/ for P2P/Dat resources and example projects
     - to view some of these projects, download the Dat browser, https://beakerbrowser.com/
 - Browse these [Distributed projects & resources](https://www.are.na/melanie-hoff/sweet-er-distributed-projects) and consider ways we could use a Dat server together at SFPC : )
