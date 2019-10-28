@@ -217,13 +217,21 @@ This part might feel tricky. Don't worry if you miss a step and encounter any pr
 
 ## Homework for Oct 24th 
 
-**Plan out and write a folder poem over the next week**
-- It can be a continuation of the Folder Poem as Home Prompt or something else you desire
+**Draw and code a folder poem over the next week**
+It can be a continuation of the Folder Poem as Home Prompt or something else you desire
 
+**Important**
+- Draw / sketch a folder poem first on paper
+    - Drop photos of your sketch in [this paper doc](https://paper.dropbox.com/doc/Folder-Poem-Drawings--AnhncalFlfX36gKb6cpu2AJZAg-gh1MtJqX5lmPC0ZiixkeA)
+- Write & code your poem using Bash in the terminal (avoid the finder) 
+    - Come to class with your Folder Poems on your computer, we will be sharing them over a distributed network using Dat
+    
 _I will be creating a folder poetry zine from this class to share and distribute at the showcase with your folder poems alongside your folder poem drawings_
 
-- Draw / sketch this poem first on paper to bring to class, then code it using Bash in the terminal (avoid the finder)
-- Browse these playful [Distributed projects & resources](https://www.are.na/melanie-hoff/sweet-er-distributed-projects) and consider ways we could use a Dat server together at SFPC : )
+**Suggested**
+- Check out Laurel’s tender P2P resource: http://p2pforever.org/ for P2P/Dat resources and example projects
+    - to view some of these projects, download the Dat browser, https://beakerbrowser.com/
+- Browse these [Distributed projects & resources](https://www.are.na/melanie-hoff/sweet-er-distributed-projects) and consider ways we could use a Dat server together at SFPC : )
 ___
 
 # Workshop Description
