@@ -11,8 +11,8 @@
 - [Editing your .bash_profile](#to-edit-your-bash_profile)
 - [Sharing on the P2P web](#-sharing-our-poems-on-the-p2p-web)
     - [P2P address book](https://docs.google.com/spreadsheets/d/1NXW5iyCl1lgAJezwOQV1T0PLwSkjF4ILNlRLv5CzCpg/edit?usp=sharing)
+- [Homework](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/sfpc-fall-2019.md#homework-for-oct-24th)
 - [Workshop Description & Theory](#workshop-description)
-- [Homework](#homework)
 
 ## Terms 
 - **Folder Poetry** is the practice of using the structure of computer folder organization as a new kind of poetic form like the haiku or iambic pentameter. By naming and nesting folders and files, we can create unfolding narratives, rhythmic prose, and choose-your-own-adventure poetry.
