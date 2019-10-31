@@ -263,6 +263,15 @@ Similarly, when we are inside a house, we are never simultaneously in the kitche
 From the command line, if we have navigated to the Desktop folder but try to perform an action on a file that’s inside your home directory, this would not work. You would have to navigate to the home folder by navigating your file path.
 
 
+### Accessing Your Personal Shared Cloud (Raspberry pi)
+
+- `ssh pi@garden`
+- pw: `morepoetry`
+
+your poems are in ~/folder-poetry
+
+
+
 ___
 
 
