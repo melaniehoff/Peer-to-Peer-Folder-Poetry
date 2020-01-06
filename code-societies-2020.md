@@ -24,20 +24,10 @@ See: [Always Already Programming](https://github.com/melaniehoff/Peer-to-Peer-Fo
 - **Dat** is a data distribution tool for publishing on peer-to-peer networks.
 
 ## Preparation before Class 
-**1. Install, 2. Respond to the Prompt, 3. Read Folder Poetry**
 For Windows 10, check out this [preliminary set up guide](https://gist.github.com/solon/4e254be6e0d2e73ef8624470fc9ca852#file-folder-poetry-setup-md)
 
-### 1. Install Node & Dat
-Run each of these Bash lines one after the other by pasting them in your Terminal application and pressing ENTR. Don't worry if you've never used terminal before or you're not comfortable with it! There will be time in class to install if you dont get to it before class. 
 
-- `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.0/install.sh | bash`
-- `source ~/.bash_profile`
-- `nvm install --lts`
-- `nvm use --lts`
-- `npm install -g dat`
-
-
-### 2. 🔮Prompt: Folder Poem as School
+### 1. 🔮Prompt: Folder Poem as School
 _What would your speculative liberatory learning environment look like?_
 
 _Previous prompts have been Folder Poem as [Village](https://gist.github.com/melaniehoff/7cda150870c869c1990a744dddbd286f#folder-poetry-prompt--a-village-you-want-to-live-in), [Gift](https://gist.github.com/melaniehoff/96bffd279b0ea66f61291e231283aab5#folder-poetry-prompt), & [Home](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/sfpc-fall-2019.md#2-prompt-folder-poem-as-home)_
@@ -62,6 +52,15 @@ _Previous prompts have been Folder Poem as [Village](https://gist.github.com/mel
         - A forest of learning folders where each participant is a tree and insect files carry information back and forth between them.
         - A school where each room is devoted to something you would like to learn collectively with those you share a that room with.
         - A multi-generational interconnected courtyard boarding house with rooms for climbing, rooms for growing, rooms for cooking, rooms for singing.
+
+### 2. Install Node & Dat
+Run each of these Bash lines one after the other by pasting them in your Terminal application and pressing ENTR. Don't worry if you've never used terminal before or you're not comfortable with it! There will be time in class to install if you dont get to it before class. 
+
+- `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.0/install.sh | bash`
+- `source ~/.bash_profile`
+- `nvm install --lts`
+- `nvm use --lts`
+- `npm install -g dat`
 
 ### 3. Read Folder Poetry
 **Folder Poetry Examples**
