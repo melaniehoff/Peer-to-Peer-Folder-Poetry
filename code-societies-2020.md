@@ -65,7 +65,7 @@ _Previous prompts have been Folder Poem as [Village](https://gist.github.com/mel
 
 ### 3. Read Folder Poetry
 **Folder Poetry Examples**
-- 🔗[Download & Explore the SFPC Fall 2019 Cohort's Poetry]()
+- 🔗[Download & Explore the SFPC Fall 2019 Cohort's Poetry in your Terminal or Finder](https://www.dropbox.com/s/ewh0cowonhqoozf/sfpc-fall-2019-folder-poetry-smaller.zip?dl=0)
 - 📒[Download: Folder Poetry - SFPC Yamaguchi Japan Zine](https://melanie-hoff.com/folder-poetry/sfpc-ycam/zine-pdfs-ycam-folder-poetry.zip)<br>
 - 📒[Download: Folder Poetry - SFPC Detroit Zine](https://melanie-hoff.com/folder-poetry/sfpc-detroit/detroit-zine-reader.pdf.zip)<br>
 - Folder Poetry on the default (non P2P) internet
