@@ -1,5 +1,5 @@
-# P2P Folder Poetry: _An introduction to Re-introducing Yourself to Computers
-### SFPC Code Societies Winter 2020_
+# P2P Folder Poetry: An introduction to Re-introducing Yourself to Computers
+### SFPC Code Societies Winter 2020
 ### Jan 7th 2020, 6:30 - 9:30pm
 
 ![](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/folder-laser-3.png)
