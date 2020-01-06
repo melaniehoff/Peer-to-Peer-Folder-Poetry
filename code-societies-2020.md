@@ -1,6 +1,17 @@
 # P2P Folder Poetry – SFPC Fall 2019
 
-![](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/folder-laser-3.png)
+![](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/folder-laser-3.png)
+
+What if we could transform our online networks from something we passively receive to something we actively create? Folder Poetry is the practice of using the structure of computer folder organization as a new kind of poetic form like the haiku or iambic pentameter. By naming and nesting folders and files, we can create unfolding narratives, rhythmic prose, and choose-your-own-adventure poetry. In this workshop we will collectively create peer-to-peer folder poetry using the command line and Dat. Through lecture, examples, and writing folder poetry as meditation, we will explore the narrative qualities of folder structures and Dat as a tool for building digital spaces with and for our networks.
+
+In this session we will get intimate with computers and write poetry with their logic. This workshop is an introduction to writing folder poetry, the P2P protocol Dat, and navigating the command line interface using Bash.
+
+Together, we will create living networked poetry through connecting folders on the peer-to-peer web for each other to inhabit and explore.
+
+This workshop assumes no coding experience and simultaneously takes the position that everyone who interacts with computers in some way is already a programmer.
+
+See: [Always Already Programming](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry#always-already-programming)
+
 
 ## Terms 
 - **Folder Poetry** is the practice of using the structure of computer folder organization as a new kind of poetic form like the haiku or iambic pentameter. By naming and nesting folders and files, we can create unfolding narratives, rhythmic prose, and choose-your-own-adventure poetry.
