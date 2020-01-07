@@ -5,6 +5,8 @@
 **SFPC Code Societies**<br>
 **Jan 7th 2020, 6:30 - 9:30pm**
 
+## [Download the Garden of Forking Paths](https://melanie-hoff.com/folder-poetry/sfpc-2019/garden-of-forking-paths.zip)
+
 What if we could transform our online networks from something we passively receive to something we actively create? Folder Poetry is the practice of using the structure of computer folder organization as a new kind of poetic form like the haiku or iambic pentameter. By naming and nesting folders and files, we can create unfolding narratives, rhythmic prose, and choose-your-own-adventure poetry. In this workshop we will collectively create peer-to-peer folder poetry using the command line and Dat. Through lecture, examples, and writing folder poetry as meditation, we will explore the narrative qualities of folder structures and Dat as a tool for building digital spaces with and for our networks.
 
 In this session we will get intimate with computers and write poetry with their logic. This workshop is an introduction to writing folder poetry, the P2P protocol Dat, and navigating the command line interface using Bash.
@@ -140,6 +142,9 @@ In steps 2 and 3 we will paste 2 aliass AKA shortcuts that will help us visualiz
   
 
 ### Helpful Codes
+
+👛 if you have a Mac computer and are feeling fancy, i recommend downloading Iterm
+- https://iterm2.com/
 
 Install homebrew
 - `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
