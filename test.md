@@ -78,5 +78,5 @@ Install homebrew
 `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
 To remove (base) from bash prompt after installing Anaconda:
-`conda config --set auto_activate_base False`
-`source ~/.bash_profile`
+- `conda config --set auto_activate_base False`
+- `source ~/.bash_profile`
