@@ -1,4 +1,14 @@
 # P2P Folder Poetry: An introduction to Re-introducing Yourself to Computers
+### 🌿🕸[Download the Garden of Forking Paths and move it to your home folder](https://melanie-hoff.com/folder-poetry/sfpc-2019/garden-of-forking-paths.zip)
+- [Slides](https://docs.google.com/presentation/d/1z0q_4SmfasCEsMocNmCdvosPGf_xZX5PMxuimWRP4uA/edit#slide=id.g6d44d3a07e_0_20)
+- [Prompt](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#1-prompt-folder-poem-as-school)
+- [Install Node & Bash](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#2-install-node--dat)
+- [Rules of p2p Folder Poetry](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#-your-folder-poetry-structure)
+- [Bash commands](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#-bash--terminal-commands)
+- [Editing your Bash Profile](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#editing-your-bash_profile)
+- [Variables & Functions](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#variables--functions)
+- [Helpful Supplemental Codes](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#helpful-codes)
+- [P2P Address book :0)](https://docs.google.com/spreadsheets/d/1nDLIUVbKFc3XNALA7Uf65ra-sH4AsPewWWajt2ltxMY/edit?usp=sharing)
 
 ![](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/folder-laser-black-wide.png)
 
@@ -70,3 +80,215 @@ Run each of these Bash lines one after the other by pasting them in your Termina
 - Folder Poetry on the default (non P2P) internet
     - [folderpoetry.club](folderpoetry.club)
     - Laurel Schwulst's adapatation of Folder Poetry in their _Writing as Metadata_ class at Yale: [metadatarocks.nfshost.com](metadatarocks.nfshost.com)
+    
+
+## 🎲 Bash & Terminal commands
+
+| Command                                    | Description                                   |
+| ------------------------------------------ | --------------------------------------------- |
+| `cd`                                       | change directory                              |
+| `cd ..`                                    | change directory one level back               |
+| `ls`                                       | list contents of directory                    |
+| `pwd`                                      | print working directory                       |
+| `mkdir foldername`                         | create a folder named foldername .            |
+| `touch dandelion.txt`                      | create a file named dandelion.txt             |
+| `echo "woof woof" > kitty.txt`             | creates a text file called kitty.txt that contains the words, "woof woof"|
+| `cat filename.txt`                         | print contents of file                        |
+| `rm -rf filename.txt` .                    | remove a file or folder this way              |
+| `mv filename.txt newfilename.txt`          | rename a file                                 |
+| `open .`                                   | (macOS) open the current folder in Finder     |
+| `explorer.exe .`                           | (Windows) open the current folder in Explorer |
+| `open filename.txt`                        | (macOS) opens file in Text Edit               |
+| `notepad.exe filename.txt`                 | (Windows) opens file in Notepad               |
+| `cp filename.txt filename2.txt`            | copy file                                     |
+| `say "hello, what is poetic computation?"` | (macOS) speak out loud                        |
+| `man cd`                                   | show the manual for 'cd'. Press q to quit     |
+| `source ~/.bash_profile`                   | restart your terminal config file             |
+
+
+### Keyboard Terminal Shortcuts
+| Command               | Description            |
+|-----------------------|------------------------|
+| Up + Down Arrow keys | scroll through history |
+| Tab Key               | autocomplete           |
+|CMD + CTRL + SPACE     |Emoji Keyboard (Mac OS) |
+
+
+### Editing a text file
+| command              | Description                       |
+| -------------------- | --------------------------------- |
+|`echo "woof woof" > kitty.txt` | creates a text file called kitty.txt that contains the words, "woof woof"|
+| `nano textfile.txt`  | open file in the nano text editor |
+| CTRL + X , y , ENTER | exit and save changes             |
+
+
+## Editing your ~./bash_profile
+
+_The ~./bash_profile is a configuration file for the terminal._
+
+1. `nano ~/.bash_profile`
+
+    - This command will open your ~./bash_profile in the nano editor
+    
+In steps 2 and 3 we will paste 2 aliass AKA shortcuts that will help us visualize our folder poem structures.
+    
+2. `alias tree="find . -not -path '*/\.*' -print | sed -e 's;[^/]*/;|;g;s;|; |;g'"` 
+    - (if you have homebrew installed enter `brew install tree` in another terminal window instead)
+    
+3. `alias treefile="find . -not -path '*/\.*' | xargs  -I {} bash -c 'f={}; echo \$f | sed -e \"s;[^/]*/;|;g;s;|; |;g\"; if [[ \$f == *.txt ]]; then echo; cat \$f; echo; echo; fi'"`
+
+4. `export PS1="🍋 \w\n\u$ "`
+    - This will customize your Bash prompt. Feel free to change the emoji. (skip if you use zshell)
+    - Explanation: `\w` shows your full file path so you'll always know where you are in the terminal, `\n` creates a new line in your bash prompt. `\u` shows your computer username, and `$` symoolizes the end of a bash prompt.
+    
+5. `source ~/.bash_profile`
+    - reboot your terminal
+    
+## 🟣 Your Folder Poetry Structure
+
+In your home(~) folder we will have:
+
+- a folder called folder-society
+- a folder called my-folder-poem
+- inside my-folder-poem is a folder called your-name
+- inside the folder called your-name is where your poem will live
+
+**To create the above outlined folder structure using Bash in the terminal:**
+
+- `cd`
+- `mkdir folder-society`
+- `mkdir my-folder-poem`
+- `cd my-folder-poem`
+- `mkdir your-name`
+- `cd your-name`
+    - ^ where we'll make our poems
+
+## 🟣 P2P Folder Poetry *Strict* Rules
+
+P2P folder poetry has specific requirements in order for your poems to be shared
+with each other via the Dat protocol. If you don't follow these rules, you will have
+still created folder poetry, they just wont become P2P folder poetry during this
+workshop.
+
+**The artform of folder poetry is forgiving, Dat is not.**
+
+- 🟣 No empty folders.
+- 🟣 Every file has to contain text in it.
+- 🟣 All lowercase
+- 🟣 No spaces. 
+- 🔺Underscores and dashes are ok. for example: `my_file.txt` or `my-file.txt`
+- 🟣 All files must have a file extension such as .txt
+
+## Variables & Functions
+
+**Javascript vs. Python**
+To read a great article on the difference between Javascript and Python, [check here](https://skillcrush.com/2019/03/15/python-vs-javascript/)! 
+- My top-level distinction is Javascript is for making dynamic websites. Javascript lives and breathes in _the Browser_. - Python, is way more of an all-purpose programming language for millions of computational uses including on the web (in servers but not in the browser).
+
+**Variables**
+
+- variables are named containers that hold information. When we name something we can refer to it later. Naming is powerful. 
+- words in laguage are like variables. They are named containers that hold meaning. To name something is declare the existance of the thing we are naming. names for words and variables don't emerge from the ether, they are collectively constructed and reaffirmed by people. what are the social histories of the words you speak?
+
+Example Variables in Python:
+```
+dog = "woof"
+my_fav_number = 7
+
+```
+
+Example Variables in Javascript:
+```
+var dog = "woof";
+var myFavNumber = 7
+```
+
+- Notice the quotations for a variable that contains a line of text (variable type is called a string). Notice that for a variable type of number, there are no quations. Why do you think that is?
+- Notice that in python vs. there are different naming conventions. snake_case vs. camelCase. Why do you think this is? (hint there's not a clear hard and fast answer, it's really just differnet naming conventions for different languages!)
+
+**Function**
+- A function is a block of reusable code (like a shortcut!) that is used to perform an action. Functions provide modularity for your project and the ability to easily reuse and repurpose code. Technically, any piece of code (from your website to the code that runs Facebook) can be written without using functions but you wouldnt want to do this because your code would then be so long!
+
+- Lanhguages like Python and Javascript gives you many built-in functions like print(), etc. but you can also create your own functions. These functions are called user-defined functions.
+
+Function in Python:
+```
+dog = "woof"
+
+def printme( my_var ):
+   print (my_var)
+   return
+
+printme(dog)
+```
+
+Function in Javascript:
+```
+var dog = "woof";
+
+function printMe(my_var){
+  console.log(my_var);
+}
+
+printMe(dog);
+```
+
+### Part I: Folder Poetry
+
+**Reintroduction to computers & computing**
+_Programming is about the computer, the programmer, the relationship they have with each other, and the environments they create together._ 
+- Folders & file systems
+- What is Folder Poetry and how will we be creating it?
+- Discretely categorizing things. The affordances of folders.
+- Examples of folder projects
+- Folders Anonymous
+
+### Part II: Terminal & Bash
+_The Desktop is a lie_
+- Terminal and Bash commands
+- Introduction of navigating the command line by walking through the-garden-of-forking-paths
+    - [Download the garden](https://melanie-hoff.com/folder-poetry/sfpc-2019/garden-of-forking-paths.zip)
+    - growing the garden
+- Anatomy of Bash Prompt 
+- Editing bash_profile
+
+### Part III
+_Making our Folder Poem Poems in Bash_
+
+### Part IIII: Peer-to-Peer Poetry with Dat
+_The network is a folder poem, be the poet_
+- P2P introduction and description of DAT and "the cloud"
+- Dat is a protocol for sharing data between computers.
+- Dat’s strengths are that data is hosted and distributed by many computers on the network, that it can work offline or with poor connectivity
+- The Distributed Web is about decentralization of servers and control
+- Data on the distributed web is not indexed which means it is not easily searchable
+- We are creating a local network island away from the default(larger) internet
+- Sharing our Poems on the P2P Web 
+
+
+### Helpful Codes
+
+👛 if you have a Mac computer and are feeling fancy, i recommend downloading Iterm
+- https://iterm2.com/
+
+Install homebrew
+- `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+
+For newer Mac's to switch from zsh to bash
+- `chsh -s $(which bash)`<br>
+OR<br>
+- `chsh -s /bin/bash`
+- More info [here](https://www.howtogeek.com/444596/how-to-change-the-default-shell-to-bash-in-macos-catalina/)
+
+To remove "(base)" from prepending the bash prompt after installing Anaconda:
+- `conda config --set auto_activate_base False`
+- `source ~/.bash_profile`
+
+To change your computer's hostname (Mac)
+- sudo scutil --set HostName new_hostname
+- restart your computer
+
+To install Anaconda (Python 3.7+, 64-bit), follow the instructions for your platform here.
+- Mac OS X: [go this page](https://www.anaconda.com/download/#macos), wait for the download to complete, and run the installer file. Choose all of the installer’s default options. To test your installation, open a terminal window and type “conda”, without quotation marks, and press enter. You should see a different list of arcane commands than those produced by typing “git”.
+
+- Windows: [go to this page](https://www.anaconda.com/download/#windows), wait for the download to complete, and run the exe file. Choose all of the installer’s default options, except you should reject the suggestion to install Microsoft Visual Studio Code. (Again, we recommend editing text using Atom.) Test your installation by searching for “anaconda prompt” in your system. In the resulting terminal window, type “conda”, without quotation marks, and press enter. You should see a different list of arcane commands than those produced by typing “git”.
