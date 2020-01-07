@@ -71,6 +71,29 @@ Run each of these Bash lines one after the other by pasting them in your Termina
     - [folderpoetry.club](folderpoetry.club)
     - Laurel Schwulst's adapatation of Folder Poetry in their _Writing as Metadata_ class at Yale: [metadatarocks.nfshost.com](metadatarocks.nfshost.com)
 
+## Editing your ~./bash_profile
+
+_The ~./bash_profile is a configuration file for the terminal._
+
+1. `nano ~/.bash_profile`
+
+    - This command will open your ~./bash_profile in the nano editor
+    
+In steps 2 and 3 we will paste 2 aliass AKA shortcuts that will help us visualize our folder poem structures.
+    
+2. `alias tree="find . -not -path '*/\.*' -print | sed -e 's;[^/]*/;|;g;s;|; |;g'"` 
+    - (if you have homebrew installed enter `brew install tree` in another terminal window instead)
+    
+3. `alias treefile="find . -not -path '*/\.*' | xargs  -I {} bash -c 'f={}; echo \$f | sed -e \"s;[^/]*/;|;g;s;|; |;g\"; if [[ \$f == *.txt ]]; then echo; cat \$f; echo; echo; fi'"`
+
+4. `export PS1="🍋 \w\n\u$ "`
+    - This will customize your Bash prompt. Feel free to change the emoji. (skip if you use zshell)
+    - Explanation: `\w` shows your full file path so you'll always know where you are in the terminal, `\n` creates a new line in your bash prompt. `\u` shows your computer username, and `$` symoolizes the end of a bash prompt.
+    
+5. `source ~/.bash_profile`
+    - reboot your terminal
+    
+  
 
 ### Helpful Codes
 
@@ -80,3 +103,9 @@ Install homebrew
 To remove (base) from bash prompt after installing Anaconda:
 - `conda config --set auto_activate_base False`
 - `source ~/.bash_profile`
+
+To install Anaconda (Python 3.7+, 64-bit), follow the instructions for your platform here.
+
+Mac OS X: [go this page](https://www.anaconda.com/download/#macos), wait for the download to complete, and run the installer file. Choose all of the installer’s default options. To test your installation, open a terminal window and type “conda”, without quotation marks, and press enter. You should see a different list of arcane commands than those produced by typing “git”.
+
+Windows: [go to this page](https://www.anaconda.com/download/#windows), wait for the download to complete, and run the exe file. Choose all of the installer’s default options, except you should reject the suggestion to install Microsoft Visual Studio Code. (Again, we recommend editing text using Atom.) Test your installation by searching for “anaconda prompt” in your system. In the resulting terminal window, type “conda”, without quotation marks, and press enter. You should see a different list of arcane commands than those produced by typing “git”.
