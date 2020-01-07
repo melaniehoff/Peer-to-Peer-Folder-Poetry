@@ -70,6 +70,50 @@ Run each of these Bash lines one after the other by pasting them in your Termina
 - Folder Poetry on the default (non P2P) internet
     - [folderpoetry.club](folderpoetry.club)
     - Laurel Schwulst's adapatation of Folder Poetry in their _Writing as Metadata_ class at Yale: [metadatarocks.nfshost.com](metadatarocks.nfshost.com)
+    
+## 🟣 Your Folder Poetry Structure
+
+In your home(~) folder we will have:
+
+- a folder called folder-society
+- a folder called my-folder-poem
+- inside my-folder-poem is a folder called your-name
+- inside the folder called your-name is where your poem will live
+
+**To create the above outlined folder structure using Bash in the terminal:**
+
+- `cd`
+- `mkdir folder-society`
+- `mkdir my-folder-poem`
+- `cd my-folder-poem`
+- `mkdir your-name`
+- `cd your-name`
+    - ^ where we'll make our poems
+
+## 🟣 P2P Folder Poetry *Strict* Rules
+
+P2P folder poetry has specific requirements in order for your poems to be shared
+with each other via the Dat protocol. If you don't follow these rules, you will have
+still created folder poetry, they just wont become P2P folder poetry during this
+workshop.
+
+**The artform of folder poetry is forgiving, Dat is not.**
+
+🟣 No empty folders.
+🟣 Every file has to contain text in it.
+🟣 Naming files and folders
+🟣 All lowercase
+🟣 No spaces. 
+🔺Underscores and dashes are ok. for example: `my_file.txt` or `my-file.txt`
+🟣 All files must have a file extension such as .txt
+
+## 🎲 Bash & Terminal commands
+
+[Bash ](https://www.notion.so/6d468ee5b55a43d8bd85d958638a35aa)
+
+[Keyboard Terminal Shortcuts](https://www.notion.so/fea90a3d377d4bb88ef7cde81969dd0e)
+
+[Editing a text file](https://www.notion.so/29030df6129747f6a9a4fe0dcfef8204)
 
 ## Editing your ~./bash_profile
 
@@ -98,14 +142,17 @@ In steps 2 and 3 we will paste 2 aliass AKA shortcuts that will help us visualiz
 ### Helpful Codes
 
 Install homebrew
-`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+- `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
 To remove (base) from bash prompt after installing Anaconda:
 - `conda config --set auto_activate_base False`
 - `source ~/.bash_profile`
 
+To change your computer's hostname (Mac)
+- sudo scutil --set HostName new_hostname
+- restart your computer
+
 To install Anaconda (Python 3.7+, 64-bit), follow the instructions for your platform here.
+- Mac OS X: [go this page](https://www.anaconda.com/download/#macos), wait for the download to complete, and run the installer file. Choose all of the installer’s default options. To test your installation, open a terminal window and type “conda”, without quotation marks, and press enter. You should see a different list of arcane commands than those produced by typing “git”.
 
-Mac OS X: [go this page](https://www.anaconda.com/download/#macos), wait for the download to complete, and run the installer file. Choose all of the installer’s default options. To test your installation, open a terminal window and type “conda”, without quotation marks, and press enter. You should see a different list of arcane commands than those produced by typing “git”.
-
-Windows: [go to this page](https://www.anaconda.com/download/#windows), wait for the download to complete, and run the exe file. Choose all of the installer’s default options, except you should reject the suggestion to install Microsoft Visual Studio Code. (Again, we recommend editing text using Atom.) Test your installation by searching for “anaconda prompt” in your system. In the resulting terminal window, type “conda”, without quotation marks, and press enter. You should see a different list of arcane commands than those produced by typing “git”.
+- Windows: [go to this page](https://www.anaconda.com/download/#windows), wait for the download to complete, and run the exe file. Choose all of the installer’s default options, except you should reject the suggestion to install Microsoft Visual Studio Code. (Again, we recommend editing text using Atom.) Test your installation by searching for “anaconda prompt” in your system. In the resulting terminal window, type “conda”, without quotation marks, and press enter. You should see a different list of arcane commands than those produced by typing “git”.
