@@ -143,7 +143,7 @@ In steps 2 and 3 we will paste 2 aliass AKA shortcuts that will help us visualiz
 
 **Javascript vs. Python**
 To read a great article on the difference between Javascript and Python, [check here](https://skillcrush.com/2019/03/15/python-vs-javascript/)! 
-- My super short distinction is Javascript is for making dynamic websites. I lives and breathes in _the Browser_. Python, is way more of an all-purpose programming language for millions of computational uses including on the web (but not in the browser).
+- My top-level distinction is Javascript is for making dynamic websites. Javascript lives and breathes in _the Browser_. - Python, is way more of an all-purpose programming language for millions of computational uses including on the web (in servers but not in the browser).
 
 **Variables**
 
