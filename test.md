@@ -149,7 +149,11 @@ In steps 2 and 3 we will paste 2 aliass AKA shortcuts that will help us visualiz
 Install homebrew
 - `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
-To remove (base) from bash prompt after installing Anaconda:
+For newer Mac's to switch from zsh to bash
+- `chsh -s $(which bash)`
+- More info [here](https://www.howtogeek.com/444596/how-to-change-the-default-shell-to-bash-in-macos-catalina/)
+
+To remove "(base)" from prepending the bash prompt after installing Anaconda:
 - `conda config --set auto_activate_base False`
 - `source ~/.bash_profile`
 
