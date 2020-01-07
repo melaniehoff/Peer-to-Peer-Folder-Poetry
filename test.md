@@ -1,5 +1,4 @@
 # P2P Folder Poetry: An introduction to Re-introducing Yourself to Computers
-## Links
 ### 🌿🕸[Download the Garden of Forking Paths](https://melanie-hoff.com/folder-poetry/sfpc-2019/garden-of-forking-paths.zip)
 - [Prompt](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#1-prompt-folder-poem-as-school)
 - [Install Node & Bash](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#2-install-node--dat)
