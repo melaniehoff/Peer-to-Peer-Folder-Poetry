@@ -139,7 +139,60 @@ In steps 2 and 3 we will paste 2 aliass AKA shortcuts that will help us visualiz
 5. `source ~/.bash_profile`
     - reboot your terminal
     
-  
+## Variables & Functions
+
+**Javascript vs. Python**
+To read a great article on the difference between Javascript and Python, [check here](https://skillcrush.com/2019/03/15/python-vs-javascript/)! 
+- My super short distinction is Javascript is for making dynamic websites. I lives and breathes in _the Browser_. Python, is way more of an all-purpose programming language for millions of computational uses including on the web (but not in the browser).
+
+**Variables**
+
+- variables are named containers that hold information. When we name something we can refer to it later. Naming is powerful. 
+- words in laguage are like variables. They are named containers that hold meaning. To name something is declare the existance of the thing we are naming. names for words and variables don't emerge from the ether, they are collectively constructed and reaffirmed by people. what are the social histories of the words you speak?
+
+Example Variables in Python:
+```
+dog = "woof"
+my_fav_number = 7
+
+```
+
+Example Variables in Javascript:
+```
+var dog = "woof";
+var myFavNumber = 7
+```
+
+- Notice the quotations for a variable that contains a line of text (variable type is called a string). Notice that for a variable type of number, there are no quations. Why do you think that is?
+- Notice that in python vs. there are different naming conventions. snake_case vs. camelCase. Why do you think this is? (hint there's not a clear hard and fast answer, it's really just differnet naming conventions for different languages!)
+
+**Function**
+- A function is a block of reusable code (like a shortcut!) that is used to perform an action. Functions provide modularity for your project and the ability to easily reuse and repurpose code. Technically, any piece of code (from your website to the code that runs Facebook) can be written without using functions but you wouldnt want to do this because your code would then be so long!
+
+- Lanhguages like Python and Javascript gives you many built-in functions like print(), etc. but you can also create your own functions. These functions are called user-defined functions.
+
+Function in Python:
+```
+dog = "woof"
+
+def printme( my_var ):
+   print (my_var)
+   return
+
+printme(dog)
+```
+
+Function in Javascript:
+```
+var dog = "woof";
+
+function printMe(my_var){
+  console.log(my_var);
+}
+
+printMe(dog);
+```
+
 
 ### Helpful Codes
 
@@ -150,7 +203,9 @@ Install homebrew
 - `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
 For newer Mac's to switch from zsh to bash
-- `chsh -s $(which bash)`
+- `chsh -s $(which bash)`<br>
+OR<br>
+- `chsh -s /bin/bash`
 - More info [here](https://www.howtogeek.com/444596/how-to-change-the-default-shell-to-bash-in-macos-catalina/)
 
 To remove "(base)" from prepending the bash prompt after installing Anaconda:
