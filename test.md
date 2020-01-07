@@ -7,6 +7,16 @@
 
 ## 🌿🕸[Download the Garden of Forking Paths](https://melanie-hoff.com/folder-poetry/sfpc-2019/garden-of-forking-paths.zip)
 
+## Links
+
+- [Prompt](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#1-prompt-folder-poem-as-school)
+- [Install Node & Bash](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#2-install-node--dat)
+- [Rules of p2p Folder Poetry](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#-your-folder-poetry-structure)
+- [Bash commands](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#-bash--terminal-commands)
+- [Editing your Bash Profile](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#editing-your-bash_profile)
+- [Variables & Functions](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#variables--functions)
+- [Helpful Supplemental Codes](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#helpful-codes)
+
 What if we could transform our online networks from something we passively receive to something we actively create? Folder Poetry is the practice of using the structure of computer folder organization as a new kind of poetic form like the haiku or iambic pentameter. By naming and nesting folders and files, we can create unfolding narratives, rhythmic prose, and choose-your-own-adventure poetry. In this workshop we will collectively create peer-to-peer folder poetry using the command line and Dat. Through lecture, examples, and writing folder poetry as meditation, we will explore the narrative qualities of folder structures and Dat as a tool for building digital spaces with and for our networks.
 
 In this session we will get intimate with computers and write poetry with their logic. This workshop is an introduction to writing folder poetry, the P2P protocol Dat, and navigating the command line interface using Bash.
@@ -73,6 +83,69 @@ Run each of these Bash lines one after the other by pasting them in your Termina
     - [folderpoetry.club](folderpoetry.club)
     - Laurel Schwulst's adapatation of Folder Poetry in their _Writing as Metadata_ class at Yale: [metadatarocks.nfshost.com](metadatarocks.nfshost.com)
     
+
+## 🎲 Bash & Terminal commands
+
+| Command                                    | Description                                   |
+| ------------------------------------------ | --------------------------------------------- |
+| `cd`                                       | change directory                              |
+| `cd ..`                                    | change directory one level back               |
+| `ls`                                       | list contents of directory                    |
+| `pwd`                                      | print working directory                       |
+| `mkdir foldername`                         | create a folder named foldername .            |
+| `touch dandelion.txt`                      | create a file named dandelion.txt             |
+| `echo "woof woof" > kitty.txt`             | creates a text file called kitty.txt that contains the words, "woof woof"|
+| `cat filename.txt`                         | print contents of file                        |
+| `rm -rf filename.txt` .                    | remove a file or folder this way              |
+| `mv filename.txt newfilename.txt`          | rename a file                                 |
+| `open .`                                   | (macOS) open the current folder in Finder     |
+| `explorer.exe .`                           | (Windows) open the current folder in Explorer |
+| `open filename.txt`                        | (macOS) opens file in Text Edit               |
+| `notepad.exe filename.txt`                 | (Windows) opens file in Notepad               |
+| `cp filename.txt filename2.txt`            | copy file                                     |
+| `say "hello, what is poetic computation?"` | (macOS) speak out loud                        |
+| `man cd`                                   | show the manual for 'cd'. Press q to quit     |
+| `source ~/.bash_profile`                   | restart your terminal config file             |
+
+
+### Keyboard Terminal Shortcuts
+| Command               | Description            |
+|-----------------------|------------------------|
+| Up + Down Arrow keys | scroll through history |
+| Tab Key               | autocomplete           |
+|CMD + CTRL + SPACE     |Emoji Keyboard (Mac OS) |
+
+
+### Editing a text file
+| command              | Description                       |
+| -------------------- | --------------------------------- |
+|`echo "woof woof" > kitty.txt` | creates a text file called kitty.txt that contains the words, "woof woof"|
+| `nano textfile.txt`  | open file in the nano text editor |
+| CTRL + X , y , ENTER | exit and save changes             |
+
+
+## Editing your ~./bash_profile
+
+_The ~./bash_profile is a configuration file for the terminal._
+
+1. `nano ~/.bash_profile`
+
+    - This command will open your ~./bash_profile in the nano editor
+    
+In steps 2 and 3 we will paste 2 aliass AKA shortcuts that will help us visualize our folder poem structures.
+    
+2. `alias tree="find . -not -path '*/\.*' -print | sed -e 's;[^/]*/;|;g;s;|; |;g'"` 
+    - (if you have homebrew installed enter `brew install tree` in another terminal window instead)
+    
+3. `alias treefile="find . -not -path '*/\.*' | xargs  -I {} bash -c 'f={}; echo \$f | sed -e \"s;[^/]*/;|;g;s;|; |;g\"; if [[ \$f == *.txt ]]; then echo; cat \$f; echo; echo; fi'"`
+
+4. `export PS1="🍋 \w\n\u$ "`
+    - This will customize your Bash prompt. Feel free to change the emoji. (skip if you use zshell)
+    - Explanation: `\w` shows your full file path so you'll always know where you are in the terminal, `\n` creates a new line in your bash prompt. `\u` shows your computer username, and `$` symoolizes the end of a bash prompt.
+    
+5. `source ~/.bash_profile`
+    - reboot your terminal
+    
 ## 🟣 Your Folder Poetry Structure
 
 In your home(~) folder we will have:
@@ -101,44 +174,13 @@ workshop.
 
 **The artform of folder poetry is forgiving, Dat is not.**
 
-🟣 No empty folders.
-🟣 Every file has to contain text in it.
-🟣 Naming files and folders
-🟣 All lowercase
-🟣 No spaces. 
-🔺Underscores and dashes are ok. for example: `my_file.txt` or `my-file.txt`
-🟣 All files must have a file extension such as .txt
+- 🟣 No empty folders.
+- 🟣 Every file has to contain text in it.
+- 🟣 All lowercase
+- 🟣 No spaces. 
+- 🔺Underscores and dashes are ok. for example: `my_file.txt` or `my-file.txt`
+- 🟣 All files must have a file extension such as .txt
 
-## 🎲 Bash & Terminal commands
-
-[Bash ](https://www.notion.so/6d468ee5b55a43d8bd85d958638a35aa)
-
-[Keyboard Terminal Shortcuts](https://www.notion.so/fea90a3d377d4bb88ef7cde81969dd0e)
-
-[Editing a text file](https://www.notion.so/29030df6129747f6a9a4fe0dcfef8204)
-
-## Editing your ~./bash_profile
-
-_The ~./bash_profile is a configuration file for the terminal._
-
-1. `nano ~/.bash_profile`
-
-    - This command will open your ~./bash_profile in the nano editor
-    
-In steps 2 and 3 we will paste 2 aliass AKA shortcuts that will help us visualize our folder poem structures.
-    
-2. `alias tree="find . -not -path '*/\.*' -print | sed -e 's;[^/]*/;|;g;s;|; |;g'"` 
-    - (if you have homebrew installed enter `brew install tree` in another terminal window instead)
-    
-3. `alias treefile="find . -not -path '*/\.*' | xargs  -I {} bash -c 'f={}; echo \$f | sed -e \"s;[^/]*/;|;g;s;|; |;g\"; if [[ \$f == *.txt ]]; then echo; cat \$f; echo; echo; fi'"`
-
-4. `export PS1="🍋 \w\n\u$ "`
-    - This will customize your Bash prompt. Feel free to change the emoji. (skip if you use zshell)
-    - Explanation: `\w` shows your full file path so you'll always know where you are in the terminal, `\n` creates a new line in your bash prompt. `\u` shows your computer username, and `$` symoolizes the end of a bash prompt.
-    
-5. `source ~/.bash_profile`
-    - reboot your terminal
-    
 ## Variables & Functions
 
 **Javascript vs. Python**
