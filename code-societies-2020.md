@@ -66,7 +66,7 @@ _Previous prompts have been Folder Poem as [Village](https://gist.github.com/mel
 ### 2. Install Node & Dat
 Run each of these Bash lines one after the other by pasting them in your Terminal application and pressing ENTR. Don't worry if you've never used terminal before or you're not comfortable with it! There will be time in class to install if you dont get to it before class. 
 
-- `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.0/install.sh | bash`
+- `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.2/install.sh | bash`
 - `source ~/.bash_profile`
 - `nvm install --lts`
 - `nvm use --lts`
