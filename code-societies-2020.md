@@ -1,6 +1,6 @@
 # P2P Folder Poetry: An introduction to Re-introducing Yourself to Computers
 
-- [☎️ P2P Address book :O)](https://docs.google.com/spreadsheets/d/1nDLIUVbKFc3XNALA7Uf65ra-sH4AsPewWWajt2ltxMY/edit?usp=sharing)
+- [☎️ P2P Address book 🦋](https://docs.google.com/spreadsheets/d/1nDLIUVbKFc3XNALA7Uf65ra-sH4AsPewWWajt2ltxMY/edit?usp=sharing)
 - [Slides](https://docs.google.com/presentation/d/1z0q_4SmfasCEsMocNmCdvosPGf_xZX5PMxuimWRP4uA/edit#slide=id.g6d44d3a07e_0_20)
 - [Prompt](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#prompt-folder-poem-as-school)
 - [Install Node & Dat](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/code-societies-2020.md#install-node--dat)
@@ -14,7 +14,7 @@
 
 ![](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/folder-laser-black-wide.png)
 
-### Install Node & Dat
+### 🕸Install Node & Dat
 Run each of these Bash lines one after the other by pasting them in your Terminal application and pressing ENTR. Don't worry if you've never used terminal before or you're not comfortable with it! There will be time in class to install if you dont get to it before class. 
 
 - `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.2/install.sh | bash`
@@ -24,7 +24,7 @@ Run each of these Bash lines one after the other by pasting them in your Termina
 - `npm install -g dat`
 
 To test that everything worked, enter `dat` into your terminal.
-If you see output that starts with `Usage: dat <cmd> [<dir>] [options]` you have all the software you need to share your folder poems on the p2p web!
+If you see output that starts with `Usage: dat <cmd> [<dir>] [options]` you have all the software you need to share your folder poems on the p2p web! 🎊
 
 ### Read Folder Poetry
 **Folder Poetry Examples**
