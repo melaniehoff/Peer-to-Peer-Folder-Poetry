@@ -239,7 +239,7 @@ _The network is a folder poem, be the poet_
 - Sharing our Poems on the P2P Web 
 
 
-### 1. 🔮Prompt: Folder Poem as School
+### 🔮Prompt: Folder Poem as School
 _What would your speculative liberatory learning environment look like?_
 
 _Previous prompts have been Folder Poem as [Village](https://gist.github.com/melaniehoff/7cda150870c869c1990a744dddbd286f#folder-poetry-prompt--a-village-you-want-to-live-in), [Gift](https://gist.github.com/melaniehoff/96bffd279b0ea66f61291e231283aab5#folder-poetry-prompt), & [Home](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/sfpc-fall-2019.md#2-prompt-folder-poem-as-home)_
