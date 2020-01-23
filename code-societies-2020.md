@@ -39,7 +39,7 @@
 6. now you can continue`cd`ing into your classmates poem and explore it! 
 7. if you want to see the whole structure enter `tree` into your terminal. if you don't have tree, seee below:
 
-#### If you dont have tree
+#### 🌳 If you dont have tree
 - `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 - `brew install tree`
 - now try entering `tree` into your terminal to expand the folder structures!
