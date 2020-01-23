@@ -30,14 +30,15 @@
 ### 📥Receiving other's poems
 **Now we will recieve other's poems!**
 
-1. `cd ~/folder-society` 
-2. now go to the [☎️ P2P Address book 🦋](https://docs.google.com/spreadsheets/d/1nDLIUVbKFc3XNALA7Uf65ra-sH4AsPewWWajt2ltxMY/edit?usp=sharing) and copy and paste a dat://xxxx url from someone else in the class!
-3. enter `dat clone` + paste the dat hash here! 
+1. OPEN A TOTALLY NEW TERMINAL WINDOW (so we don't disrupt the sharing)
+2. `cd ~/folder-society` 
+3. now go to the [☎️ P2P Address book 🦋](https://docs.google.com/spreadsheets/d/1nDLIUVbKFc3XNALA7Uf65ra-sH4AsPewWWajt2ltxMY/edit?usp=sharing) and copy and paste a dat://xxxx url from someone else in the class!
+4. enter `dat clone` + paste the dat hash here! 
     - it will look something like this`dat clone dat://7ce94a276f9f16f66644e02/`
-4. `ls` and you should see a directory inside your folder-society folder titled something like `7ce94a276f9f16f66644e02/` this will be the name of the hash of the dat poem you just cloned
-5. cd into this directory, for me this looks like `cd 7ce94a276f9f16f66644e02/` (remember you can tab to autocomplete!)
-6. now you can continue`cd`ing into your classmates poem and explore it! 
-7. if you want to see the whole structure enter `tree` into your terminal. if you don't have tree, seee below:
+5. `ls` and you should see a directory inside your folder-society folder titled something like `7ce94a276f9f16f66644e02/` this will be the name of the hash of the dat poem you just cloned
+6. cd into this directory, for me this looks like `cd 7ce94a276f9f16f66644e02/` (remember you can tab to autocomplete!)
+7. now you can continue`cd`ing into your classmates poem and explore it! 
+8. if you want to see the whole structure enter `tree` into your terminal. if you don't have tree, seee below:
 
 #### 🌳 If you dont have tree
 - `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
