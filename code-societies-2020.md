@@ -1,6 +1,7 @@
 # P2P Folder Poetry: An introduction to Re-introducing Yourself to Computers
 
 - [☎️ P2P Address book 🦋](https://docs.google.com/spreadsheets/d/1nDLIUVbKFc3XNALA7Uf65ra-sH4AsPewWWajt2ltxMY/edit?usp=sharing)
+- [How to share your poems on the p2p web]
 - [Install Node & Dat](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/code-societies-2020.md#install-node--dat)
 - [Rules of p2p Folder Poetry](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/code-societies-2020.md#-your-folder-poetry-structure)
 - [Bash commands](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/code-societies-2020.md#-bash--terminal-commands)
@@ -13,6 +14,34 @@
 
 
 ![](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/folder-laser-black-wide.png)
+
+### 🦋📤Sharing your poetry on the p2p web!
+**First we will share our poems, then we will recieve other's**
+
+1. make sure your poem lives inside ~/my-folder-poem/your-name/your-poem-here 
+2. `cd ~/my-folder-poem` 
+    - note if your my-folder-poem/ folder is in a different directory, this part may look like `cd ~/code-societies/my-folder-poem`
+3. enter `dat share` in your terminal from inside the folder, my-folder-poem/
+4. copy and paste the blue url that looks something like `dat://a297239732y98r3y8328320230y352y0350y3520y3` into [☎️ P2P Address book 🦋](https://docs.google.com/spreadsheets/d/1nDLIUVbKFc3XNALA7Uf65ra-sH4AsPewWWajt2ltxMY/edit?usp=sharing) next to your name 
+5. dont close or exit this terminal session so your poem will continue to be shared on the network!
+6. Now you are sharing your poem on the p2p web!
+
+### 🦋📥Receiving other's poems
+**Now we will recieve other's poems!**
+
+1. `cd ~/folder-society` 
+2. now go to the [☎️ P2P Address book 🦋](https://docs.google.com/spreadsheets/d/1nDLIUVbKFc3XNALA7Uf65ra-sH4AsPewWWajt2ltxMY/edit?usp=sharing) and copy and paste a dat://xxxx url from someone else in the class!
+3. enter `dat clone` + paste the dat hash here! 
+    - it will look something like this`dat clone dat://7ce94a276f9f16f66644e02/`
+4. `ls` and you should see a directory inside your folder-society folder titled something like `7ce94a276f9f16f66644e02/` this will be the name of the hash of the dat poem you just cloned
+5. cd into this directory, for me this looks like `cd 7ce94a276f9f16f66644e02/` (remember you can tab to autocomplete!)
+6. now you can continue`cd`ing into your classmates poem and explore it! 
+7. if you want to see the whole structure enter `tree` into your terminal. if you don't have tree, seee below:
+
+#### If you dont have tree
+- `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+- `brew install tree`
+- now try entering `tree` into your terminal to expand the folder structures!
 
 ### 🕸Install Node & Dat
 Run each of these Bash lines one after the other by pasting them in your Terminal application and pressing ENTR. Don't worry if you've never used terminal before or you're not comfortable with it! There will be time in class to install if you dont get to it before class. 
