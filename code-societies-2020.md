@@ -1,17 +1,30 @@
 # P2P Folder Poetry: An introduction to Re-introducing Yourself to Computers
-### 🌿🕸[Download the Garden of Forking Paths and move it to your home folder](https://melanie-hoff.com/folder-poetry/sfpc-2019/garden-of-forking-paths.zip)
+
 - [P2P Address book :O)](https://docs.google.com/spreadsheets/d/1nDLIUVbKFc3XNALA7Uf65ra-sH4AsPewWWajt2ltxMY/edit?usp=sharing)
 - [Slides](https://docs.google.com/presentation/d/1z0q_4SmfasCEsMocNmCdvosPGf_xZX5PMxuimWRP4uA/edit#slide=id.g6d44d3a07e_0_20)
-- [Prompt](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#1-prompt-folder-poem-as-school)
+- [Prompt](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#prompt-folder-poem-as-school)
 - [Install Node & Dat](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#2-install-node--dat)
 - [Rules of p2p Folder Poetry](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#-your-folder-poetry-structure)
 - [Bash commands](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#-bash--terminal-commands)
 - [Editing your Bash Profile](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#editing-your-bash_profile)
 - [Variables & Functions](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#variables--functions)
 - [Helpful Supplemental Codes](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#helpful-codes)
+- 🌿🕸[Download the Garden of Forking Paths and move it to your home folder](https://melanie-hoff.com/folder-poetry/sfpc-2019/garden-of-forking-paths.zip)
 
 
 ![](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/folder-laser-black-wide.png)
+
+### Install Node & Dat
+Run each of these Bash lines one after the other by pasting them in your Terminal application and pressing ENTR. Don't worry if you've never used terminal before or you're not comfortable with it! There will be time in class to install if you dont get to it before class. 
+
+- `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.2/install.sh | bash`
+- `source ~/.bash_profile`
+- `nvm install --lts`
+- `nvm use --lts`
+- `npm install -g dat`
+
+To test that everything worked, enter `dat` into your terminal.
+If you see output that starts with `Usage: dat <cmd> [<dir>] [options]` you have all the software you need to share your folder poems on the p2p web!
 
 **SFPC Code Societies**<br>
 **Jan 7th 2020, 6:30 - 9:30pm**
@@ -37,15 +50,6 @@ See: [Always Already Programming](https://github.com/melaniehoff/Peer-to-Peer-Fo
 ## Preparation before Class 
 For Windows 10, check out this [preliminary set up guide](https://gist.github.com/solon/4e254be6e0d2e73ef8624470fc9ca852#file-folder-poetry-setup-md)
 
-
-### 2. Install Node & Dat
-Run each of these Bash lines one after the other by pasting them in your Terminal application and pressing ENTR. Don't worry if you've never used terminal before or you're not comfortable with it! There will be time in class to install if you dont get to it before class. 
-
-- `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.2/install.sh | bash`
-- `source ~/.bash_profile`
-- `nvm install --lts`
-- `nvm use --lts`
-- `npm install -g dat`
 
 ### 3. Read Folder Poetry
 **Folder Poetry Examples**
