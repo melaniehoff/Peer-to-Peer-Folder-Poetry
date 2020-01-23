@@ -16,9 +16,9 @@
 ![](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/folder-laser-black-wide.png)
 🦋🦋🦋
 
-## In class we will get into small groups and share our poems 💜
+## In class we will get into small groups and share our poems on the p2p web 💜
 
-### 📤 Sharing your poetry on the p2p web  
+### 📤 Sharing your poem   
 **First we will share our poems, then we will recieve other's**
 
 1. make sure your poem lives inside ~/my-folder-poem/your-name/your-poem-here 
