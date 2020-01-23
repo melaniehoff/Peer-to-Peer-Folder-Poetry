@@ -3,7 +3,7 @@
 - [P2P Address book :O)](https://docs.google.com/spreadsheets/d/1nDLIUVbKFc3XNALA7Uf65ra-sH4AsPewWWajt2ltxMY/edit?usp=sharing)
 - [Slides](https://docs.google.com/presentation/d/1z0q_4SmfasCEsMocNmCdvosPGf_xZX5PMxuimWRP4uA/edit#slide=id.g6d44d3a07e_0_20)
 - [Prompt](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#prompt-folder-poem-as-school)
-- [Install Node & Dat](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#2-install-node--dat)
+- [Install Node & Dat](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/code-societies-2020.md#install-node--dat)
 - [Rules of p2p Folder Poetry](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#-your-folder-poetry-structure)
 - [Bash commands](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#-bash--terminal-commands)
 - [Editing your Bash Profile](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#editing-your-bash_profile)
@@ -26,32 +26,7 @@ Run each of these Bash lines one after the other by pasting them in your Termina
 To test that everything worked, enter `dat` into your terminal.
 If you see output that starts with `Usage: dat <cmd> [<dir>] [options]` you have all the software you need to share your folder poems on the p2p web!
 
-**SFPC Code Societies**<br>
-**Jan 7th 2020, 6:30 - 9:30pm**
-
-What if we could transform our online networks from something we passively receive to something we actively create? Folder Poetry is the practice of using the structure of computer folder organization as a new kind of poetic form like the haiku or iambic pentameter. By naming and nesting folders and files, we can create unfolding narratives, rhythmic prose, and choose-your-own-adventure poetry. In this workshop we will collectively create peer-to-peer folder poetry using the command line and Dat. Through lecture, examples, and writing folder poetry as meditation, we will explore the narrative qualities of folder structures and Dat as a tool for building digital spaces with and for our networks.
-
-In this session we will get intimate with computers and write poetry with their logic. This workshop is an introduction to writing folder poetry, the P2P protocol Dat, and navigating the command line interface using Bash.
-
-Together, we will create living networked poetry through connecting folders on the peer-to-peer web for each other to inhabit and explore.
-
-This workshop assumes no coding experience and simultaneously takes the position that everyone who interacts with computers in some way is already a programmer.
-
-See: [Always Already Programming](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry#always-already-programming)
-
-
-## Terms 
-- **Folder Poetry** is the practice of using the structure of computer folder organization as a new kind of poetic form like the haiku or iambic pentameter. By naming and nesting folders and files, we can create unfolding narratives, rhythmic prose, and choose-your-own-adventure poetry.
-- **The Terminal** is desktop application to control and make changes to your operating system by typing text commands. In this class we'll use the terminal to create folder poetry.
-- **Bash** is the programming language we'll use in the terminal, often one line at a time, but we can also put Bash code in a file and run that file.
-- **Peer-to-peer** computing is a way to make distributed networks in which each computer can act as a server for the others, allowing shared access to files without the need for a central server.
-- **Dat** is a data distribution tool for publishing on peer-to-peer networks.
-
-## Preparation before Class 
-For Windows 10, check out this [preliminary set up guide](https://gist.github.com/solon/4e254be6e0d2e73ef8624470fc9ca852#file-folder-poetry-setup-md)
-
-
-### 3. Read Folder Poetry
+### Read Folder Poetry
 **Folder Poetry Examples**
 - 🔗[Download & Explore the SFPC Fall 2019 Cohort's Poetry in your Terminal or Finder](https://www.dropbox.com/s/ewh0cowonhqoozf/sfpc-fall-2019-folder-poetry-smaller.zip?dl=0)
 - 📒[Download: Folder Poetry - SFPC Yamaguchi Japan Zine](https://melanie-hoff.com/folder-poetry/sfpc-ycam/zine-pdfs-ycam-folder-poetry.zip)<br>
@@ -60,7 +35,7 @@ For Windows 10, check out this [preliminary set up guide](https://gist.github.co
     - [folderpoetry.club](folderpoetry.club)
     - Laurel Schwulst's adapatation of Folder Poetry in their _Writing as Metadata_ class at Yale: [metadatarocks.nfshost.com](metadatarocks.nfshost.com)
     
-
+ 
 ## 🎲 Bash & Terminal commands
 
 | Command                                    | Description                                   |
@@ -158,59 +133,6 @@ workshop.
 - 🔺Underscores and dashes are ok. for example: `my_file.txt` or `my-file.txt`
 - 🟣 All files must have a file extension such as .txt
 
-## Variables & Functions
-
-**Javascript vs. Python**
-To read a great article on the difference between Javascript and Python, [check here](https://skillcrush.com/2019/03/15/python-vs-javascript/)! 
-- My top-level distinction is Javascript is for making dynamic websites. Javascript lives and breathes in _the Browser_. - Python, is way more of an all-purpose programming language for millions of computational uses including on the web (in servers but not in the browser).
-
-**Variables**
-
-- variables are named containers that hold information. When we name something we can refer to it later. Naming is powerful. 
-- words in laguage are like variables. They are named containers that hold meaning. To name something is declare the existance of the thing we are naming. names for words and variables don't emerge from the ether, they are collectively constructed and reaffirmed by people. what are the social histories of the words you speak?
-
-Example Variables in Python:
-```
-dog = "woof"
-my_fav_number = 7
-
-```
-
-Example Variables in Javascript:
-```
-var dog = "woof";
-var myFavNumber = 7
-```
-
-- Notice the quotations for a variable that contains a line of text (variable type is called a string). Notice that for a variable type of number, there are no quations. Why do you think that is?
-- Notice that in python vs. there are different naming conventions. snake_case vs. camelCase. Why do you think this is? (hint there's not a clear hard and fast answer, it's really just differnet naming conventions for different languages!)
-
-**Function**
-- A function is a block of reusable code (like a shortcut!) that is used to perform an action. Functions provide modularity for your project and the ability to easily reuse and repurpose code. Technically, any piece of code (from your website to the code that runs Facebook) can be written without using functions but you wouldnt want to do this because your code would then be so long!
-
-- Lanhguages like Python and Javascript gives you many built-in functions like print(), etc. but you can also create your own functions. These functions are called user-defined functions.
-
-Function in Python:
-```
-dog = "woof"
-
-def printme( my_var ):
-   print (my_var)
-   return
-
-printme(dog)
-```
-
-Function in Javascript:
-```
-var dog = "woof";
-
-function printMe(my_var){
-  console.log(my_var);
-}
-
-printMe(dog);
-```
 
 ### Part I: Folder Poetry
 
@@ -296,3 +218,27 @@ To install Anaconda (Python 3.7+, 64-bit), follow the instructions for your plat
 - Mac OS X: [go this page](https://www.anaconda.com/download/#macos), wait for the download to complete, and run the installer file. Choose all of the installer’s default options. To test your installation, open a terminal window and type “conda”, without quotation marks, and press enter. You should see a different list of arcane commands than those produced by typing “git”.
 
 - Windows: [go to this page](https://www.anaconda.com/download/#windows), wait for the download to complete, and run the exe file. Choose all of the installer’s default options, except you should reject the suggestion to install Microsoft Visual Studio Code. (Again, we recommend editing text using Atom.) Test your installation by searching for “anaconda prompt” in your system. In the resulting terminal window, type “conda”, without quotation marks, and press enter. You should see a different list of arcane commands than those produced by typing “git”.
+
+**SFPC Code Societies**<br>
+**Jan 7th 2020, 6:30 - 9:30pm**
+
+What if we could transform our online networks from something we passively receive to something we actively create? Folder Poetry is the practice of using the structure of computer folder organization as a new kind of poetic form like the haiku or iambic pentameter. By naming and nesting folders and files, we can create unfolding narratives, rhythmic prose, and choose-your-own-adventure poetry. In this workshop we will collectively create peer-to-peer folder poetry using the command line and Dat. Through lecture, examples, and writing folder poetry as meditation, we will explore the narrative qualities of folder structures and Dat as a tool for building digital spaces with and for our networks.
+
+In this session we will get intimate with computers and write poetry with their logic. This workshop is an introduction to writing folder poetry, the P2P protocol Dat, and navigating the command line interface using Bash.
+
+Together, we will create living networked poetry through connecting folders on the peer-to-peer web for each other to inhabit and explore.
+
+This workshop assumes no coding experience and simultaneously takes the position that everyone who interacts with computers in some way is already a programmer.
+
+See: [Always Already Programming](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry#always-already-programming)
+
+
+## Terms 
+- **Folder Poetry** is the practice of using the structure of computer folder organization as a new kind of poetic form like the haiku or iambic pentameter. By naming and nesting folders and files, we can create unfolding narratives, rhythmic prose, and choose-your-own-adventure poetry.
+- **The Terminal** is desktop application to control and make changes to your operating system by typing text commands. In this class we'll use the terminal to create folder poetry.
+- **Bash** is the programming language we'll use in the terminal, often one line at a time, but we can also put Bash code in a file and run that file.
+- **Peer-to-peer** computing is a way to make distributed networks in which each computer can act as a server for the others, allowing shared access to files without the need for a central server.
+- **Dat** is a data distribution tool for publishing on peer-to-peer networks.
+
+## Windows Preparation before Class 
+For Windows 10, check out this [preliminary set up guide](https://gist.github.com/solon/4e254be6e0d2e73ef8624470fc9ca852#file-folder-poetry-setup-md)
