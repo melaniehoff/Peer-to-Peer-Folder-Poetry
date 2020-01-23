@@ -23,7 +23,7 @@
 2. `cd ~/my-folder-poem` 
     - note if your my-folder-poem/ folder is in a different directory, this part may look like `cd ~/code-societies/my-folder-poem`
 3. enter `dat share` in your terminal from inside the folder, my-folder-poem/
-4. copy and paste the blue url that looks something like `dat://a297239732y98r3y8328320230y352y0350y3520y3` into [☎️ P2P Address book 🦋](https://docs.google.com/spreadsheets/d/1nDLIUVbKFc3XNALA7Uf65ra-sH4AsPewWWajt2ltxMY/edit?usp=sharing) next to your name 
+4. copy and paste the blue url that looks something like `dat://a297239732y98r3y8328320230y352y0350y3520y3` into [P2P Address book](https://docs.google.com/spreadsheets/d/1nDLIUVbKFc3XNALA7Uf65ra-sH4AsPewWWajt2ltxMY/edit?usp=sharing) next to your name 
 5. dont close or exit this terminal session so your poem will continue to be shared on the network!
 6. Now you are sharing your poem on the p2p web!
 
@@ -32,7 +32,7 @@
 
 1. OPEN A TOTALLY NEW TERMINAL WINDOW (so we don't disrupt the sharing)
 2. `cd ~/folder-society` 
-3. now go to the [☎️ P2P Address book 🦋](https://docs.google.com/spreadsheets/d/1nDLIUVbKFc3XNALA7Uf65ra-sH4AsPewWWajt2ltxMY/edit?usp=sharing) and copy and paste a dat://xxxx url from someone else in the class!
+3. now go to the [P2P Address book](https://docs.google.com/spreadsheets/d/1nDLIUVbKFc3XNALA7Uf65ra-sH4AsPewWWajt2ltxMY/edit?usp=sharing) and copy and paste a dat://xxxx url from someone else in the class!
 4. enter `dat clone` + paste the dat hash here! 
     - it will look something like this`dat clone dat://7ce94a276f9f16f66644e02/`
 5. `ls` and you should see a directory inside your folder-society folder titled something like `7ce94a276f9f16f66644e02/` this will be the name of the hash of the dat poem you just cloned
