@@ -14,8 +14,9 @@
 
 
 ![](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/folder-laser-black-wide.png)
+🦋🦋🦋
 
-### 🦋📤Sharing your poetry on the p2p web!
+### 📤 Sharing your poetry on the p2p web  
 **First we will share our poems, then we will recieve other's**
 
 1. make sure your poem lives inside ~/my-folder-poem/your-name/your-poem-here 
@@ -26,7 +27,7 @@
 5. dont close or exit this terminal session so your poem will continue to be shared on the network!
 6. Now you are sharing your poem on the p2p web!
 
-### 🦋📥Receiving other's poems
+### 📥Receiving other's poems
 **Now we will recieve other's poems!**
 
 1. `cd ~/folder-society` 
