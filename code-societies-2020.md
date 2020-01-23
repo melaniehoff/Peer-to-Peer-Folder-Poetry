@@ -1,6 +1,6 @@
 # P2P Folder Poetry: An introduction to Re-introducing Yourself to Computers
 
-- [P2P Address book :O)](https://docs.google.com/spreadsheets/d/1nDLIUVbKFc3XNALA7Uf65ra-sH4AsPewWWajt2ltxMY/edit?usp=sharing)
+- [☎️ P2P Address book :O)](https://docs.google.com/spreadsheets/d/1nDLIUVbKFc3XNALA7Uf65ra-sH4AsPewWWajt2ltxMY/edit?usp=sharing)
 - [Slides](https://docs.google.com/presentation/d/1z0q_4SmfasCEsMocNmCdvosPGf_xZX5PMxuimWRP4uA/edit#slide=id.g6d44d3a07e_0_20)
 - [Prompt](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#prompt-folder-poem-as-school)
 - [Install Node & Dat](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/code-societies-2020.md#install-node--dat)
@@ -134,38 +134,6 @@ workshop.
 - 🟣 All files must have a file extension such as .txt
 
 
-### Part I: Folder Poetry
-
-**Reintroduction to computers & computing**
-_Programming is about the computer, the programmer, the relationship they have with each other, and the environments they create together._ 
-- Folders & file systems
-- What is Folder Poetry and how will we be creating it?
-- Discretely categorizing things. The affordances of folders.
-- Examples of folder projects
-- Folders Anonymous
-
-### Part II: Terminal & Bash
-_The Desktop is a lie_
-- Terminal and Bash commands
-- Introduction of navigating the command line by walking through the-garden-of-forking-paths
-    - [Download the garden](https://melanie-hoff.com/folder-poetry/sfpc-2019/garden-of-forking-paths.zip)
-    - growing the garden
-- Anatomy of Bash Prompt 
-- Editing bash_profile
-
-### Part III
-_Making our Folder Poem Poems in Bash_
-
-### Part IIII: Peer-to-Peer Poetry with Dat
-_The network is a folder poem, be the poet_
-- P2P introduction and description of DAT and "the cloud"
-- Dat is a protocol for sharing data between computers.
-- Dat’s strengths are that data is hosted and distributed by many computers on the network, that it can work offline or with poor connectivity
-- The Distributed Web is about decentralization of servers and control
-- Data on the distributed web is not indexed which means it is not easily searchable
-- We are creating a local network island away from the default(larger) internet
-- Sharing our Poems on the P2P Web 
-
 ### 🔮Prompt: Folder Poem as School
 _What would your speculative liberatory learning environment look like?_
 
@@ -219,7 +187,7 @@ To install Anaconda (Python 3.7+, 64-bit), follow the instructions for your plat
 
 - Windows: [go to this page](https://www.anaconda.com/download/#windows), wait for the download to complete, and run the exe file. Choose all of the installer’s default options, except you should reject the suggestion to install Microsoft Visual Studio Code. (Again, we recommend editing text using Atom.) Test your installation by searching for “anaconda prompt” in your system. In the resulting terminal window, type “conda”, without quotation marks, and press enter. You should see a different list of arcane commands than those produced by typing “git”.
 
-**SFPC Code Societies**<br>
+# SFPC Code Societies
 **Jan 7th 2020, 6:30 - 9:30pm**
 
 What if we could transform our online networks from something we passively receive to something we actively create? Folder Poetry is the practice of using the structure of computer folder organization as a new kind of poetic form like the haiku or iambic pentameter. By naming and nesting folders and files, we can create unfolding narratives, rhythmic prose, and choose-your-own-adventure poetry. In this workshop we will collectively create peer-to-peer folder poetry using the command line and Dat. Through lecture, examples, and writing folder poetry as meditation, we will explore the narrative qualities of folder structures and Dat as a tool for building digital spaces with and for our networks.
@@ -242,3 +210,36 @@ See: [Always Already Programming](https://github.com/melaniehoff/Peer-to-Peer-Fo
 
 ## Windows Preparation before Class 
 For Windows 10, check out this [preliminary set up guide](https://gist.github.com/solon/4e254be6e0d2e73ef8624470fc9ca852#file-folder-poetry-setup-md)
+
+
+### Part I: Folder Poetry
+
+**Reintroduction to computers & computing**
+_Programming is about the computer, the programmer, the relationship they have with each other, and the environments they create together._ 
+- Folders & file systems
+- What is Folder Poetry and how will we be creating it?
+- Discretely categorizing things. The affordances of folders.
+- Examples of folder projects
+- Folders Anonymous
+
+### Part II: Terminal & Bash
+_The Desktop is a lie_
+- Terminal and Bash commands
+- Introduction of navigating the command line by walking through the-garden-of-forking-paths
+    - [Download the garden](https://melanie-hoff.com/folder-poetry/sfpc-2019/garden-of-forking-paths.zip)
+    - growing the garden
+- Anatomy of Bash Prompt 
+- Editing bash_profile
+
+### Part III
+_Making our Folder Poem Poems in Bash_
+
+### Part IIII: Peer-to-Peer Poetry with Dat
+_The network is a folder poem, be the poet_
+- P2P introduction and description of DAT and "the cloud"
+- Dat is a protocol for sharing data between computers.
+- Dat’s strengths are that data is hosted and distributed by many computers on the network, that it can work offline or with poor connectivity
+- The Distributed Web is about decentralization of servers and control
+- Data on the distributed web is not indexed which means it is not easily searchable
+- We are creating a local network island away from the default(larger) internet
+- Sharing our Poems on the P2P Web 
