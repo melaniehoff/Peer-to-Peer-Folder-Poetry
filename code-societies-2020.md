@@ -1,13 +1,13 @@
 # P2P Folder Poetry: An introduction to Re-introducing Yourself to Computers
 
 - [☎️ P2P Address book 🦋](https://docs.google.com/spreadsheets/d/1nDLIUVbKFc3XNALA7Uf65ra-sH4AsPewWWajt2ltxMY/edit?usp=sharing)
+- [Install Node & Dat](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/code-societies-2020.md#install-node--dat)
+- [Rules of p2p Folder Poetry](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/code-societies-2020.md#-your-folder-poetry-structure)
+- [Bash commands](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/code-societies-2020.md#-bash--terminal-commands)
+- [Editing your Bash Profile](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/code-societies-2020.md#editing-your-bash_profile)
+- [Folder Poem Examples](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/code-societies-2020.md#read-folder-poetry)
 - [Slides](https://docs.google.com/presentation/d/1z0q_4SmfasCEsMocNmCdvosPGf_xZX5PMxuimWRP4uA/edit#slide=id.g6d44d3a07e_0_20)
 - [Prompt](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#prompt-folder-poem-as-school)
-- [Install Node & Dat](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/code-societies-2020.md#install-node--dat)
-- [Rules of p2p Folder Poetry](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#-your-folder-poetry-structure)
-- [Bash commands](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#-bash--terminal-commands)
-- [Editing your Bash Profile](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#editing-your-bash_profile)
-- [Variables & Functions](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#variables--functions)
 - [Helpful Supplemental Codes](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#helpful-codes)
 - [Download the Garden of Forking Paths and move it to your home folder](https://melanie-hoff.com/folder-poetry/sfpc-2019/garden-of-forking-paths.zip)
 
@@ -25,6 +25,42 @@ Run each of these Bash lines one after the other by pasting them in your Termina
 
 To test that everything worked, enter `dat` into your terminal.
 If you see output that starts with `Usage: dat <cmd> [<dir>] [options]` you have all the software you need to share your folder poems on the p2p web! 🎊
+
+## 🟣 Your Folder Poetry Structure
+
+In your home(~) folder we will have:
+
+- a folder called folder-society
+- a folder called my-folder-poem
+- inside my-folder-poem is a folder called your-name
+- inside the folder called your-name is where your poem will live
+
+**To create the above outlined folder structure using Bash in the terminal:**
+
+- `cd`
+- `mkdir folder-society`
+- `mkdir my-folder-poem`
+- `cd my-folder-poem`
+- `mkdir your-name`
+- `cd your-name`
+    - ^ where we'll make our poems
+
+## 🟣 P2P Folder Poetry *Strict* Rules
+
+P2P folder poetry has specific requirements in order for your poems to be shared
+with each other via the Dat protocol. If you don't follow these rules, you will have
+still created folder poetry, they just wont become P2P folder poetry during this
+workshop.
+
+**The artform of folder poetry is forgiving, Dat is not.**
+
+- 🟣 No empty folders.
+- 🟣 Every file has to contain text in it.
+- 🟣 All lowercase
+- 🟣 No spaces. 
+- 🔺Underscores and dashes are ok. for example: `my_file.txt` or `my-file.txt`
+- 🟣 All files must have a file extension such as .txt
+
 
 ### Read Folder Poetry
 **Folder Poetry Examples**
@@ -97,41 +133,6 @@ In steps 2 and 3 we will paste 2 aliass AKA shortcuts that will help us visualiz
     
 5. `source ~/.bash_profile`
     - reboot your terminal
-    
-## 🟣 Your Folder Poetry Structure
-
-In your home(~) folder we will have:
-
-- a folder called folder-society
-- a folder called my-folder-poem
-- inside my-folder-poem is a folder called your-name
-- inside the folder called your-name is where your poem will live
-
-**To create the above outlined folder structure using Bash in the terminal:**
-
-- `cd`
-- `mkdir folder-society`
-- `mkdir my-folder-poem`
-- `cd my-folder-poem`
-- `mkdir your-name`
-- `cd your-name`
-    - ^ where we'll make our poems
-
-## 🟣 P2P Folder Poetry *Strict* Rules
-
-P2P folder poetry has specific requirements in order for your poems to be shared
-with each other via the Dat protocol. If you don't follow these rules, you will have
-still created folder poetry, they just wont become P2P folder poetry during this
-workshop.
-
-**The artform of folder poetry is forgiving, Dat is not.**
-
-- 🟣 No empty folders.
-- 🟣 Every file has to contain text in it.
-- 🟣 All lowercase
-- 🟣 No spaces. 
-- 🔺Underscores and dashes are ok. for example: `my_file.txt` or `my-file.txt`
-- 🟣 All files must have a file extension such as .txt
 
 
 ### 🔮Prompt: Folder Poem as School
