@@ -36,33 +36,6 @@ See: [Always Already Programming](https://github.com/melaniehoff/Peer-to-Peer-Fo
 ## Preparation before Class 
 For Windows 10, check out this [preliminary set up guide](https://gist.github.com/solon/4e254be6e0d2e73ef8624470fc9ca852#file-folder-poetry-setup-md)
 
-
-### 1. 🔮Prompt: Folder Poem as School
-_What would your speculative liberatory learning environment look like?_
-
-_Previous prompts have been Folder Poem as [Village](https://gist.github.com/melaniehoff/7cda150870c869c1990a744dddbd286f#folder-poetry-prompt--a-village-you-want-to-live-in), [Gift](https://gist.github.com/melaniehoff/96bffd279b0ea66f61291e231283aab5#folder-poetry-prompt), & [Home](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/sfpc-fall-2019.md#2-prompt-folder-poem-as-home)_
-
-**Gently explore your imagination and think about the following prompt. Feel free to write or sketch based on your reflections but this is not required.**
-
-- **Imagine a fantastical physical environment that could hold you and those you want to learn nearby.**
-- **This school is not like any school that exists. This school does not have to be realistic or adhere to laws of physics.**
-    - What kinds of rooms, interconnecting hallways, or gardens could be grown? What kinds of activities would learners do in different spaces throughout the school?
-    - What kinds of subjects would be taught there? Are their teachers and students or some other set of roles?
-    - Do the roles ever change?
-    - What are the bathrooms like? How about the furniture? Are there laboratories? Playgrounds? Napping rooms?
-    - Consider the kinds of relationships you would like this school to hold & how people could relate to each other differently based on the proximity and content of their learning?
-    - Consider how you would like to share space with others in this school. How are different parts of your school accessed and by whom?
-    - Are there grades in this school? How are people separated into groups if ever? What are the taxonomies? For ex: traditional school systems will group people by categories such as age, class, geography, "ability", "behavior", and able-bodied-ness. 
-    - Consider the ephemeral aspects of the school as much as the physical aspects.
-    - In this school, how do you communicate and care for each other?
-    - What are the emotional qualities of the spaces in this school?
-    - What is the weather like around this school?
-    - Consider the many forms it could take,
-        - A memory palace with many rooms. In each room a memory of something that someone learned in this room by seeing the memory of the last person in this room.
-        - A forest of learning folders where each participant is a tree and insect files carry information back and forth between them.
-        - A school where each room is devoted to something you would like to learn collectively with those you share a that room with.
-        - A multi-generational interconnected courtyard boarding house with rooms for climbing, rooms for growing, rooms for cooking, rooms for singing.
-
 ### 2. Install Node & Dat
 Run each of these Bash lines one after the other by pasting them in your Terminal application and pressing ENTR. Don't worry if you've never used terminal before or you're not comfortable with it! There will be time in class to install if you dont get to it before class. 
 
@@ -266,6 +239,32 @@ _The network is a folder poem, be the poet_
 - Sharing our Poems on the P2P Web 
 
 
+### 1. 🔮Prompt: Folder Poem as School
+_What would your speculative liberatory learning environment look like?_
+
+_Previous prompts have been Folder Poem as [Village](https://gist.github.com/melaniehoff/7cda150870c869c1990a744dddbd286f#folder-poetry-prompt--a-village-you-want-to-live-in), [Gift](https://gist.github.com/melaniehoff/96bffd279b0ea66f61291e231283aab5#folder-poetry-prompt), & [Home](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/sfpc-fall-2019.md#2-prompt-folder-poem-as-home)_
+
+**Gently explore your imagination and think about the following prompt. Feel free to write or sketch based on your reflections but this is not required.**
+
+- **Imagine a fantastical physical environment that could hold you and those you want to learn nearby.**
+- **This school is not like any school that exists. This school does not have to be realistic or adhere to laws of physics.**
+    - What kinds of rooms, interconnecting hallways, or gardens could be grown? What kinds of activities would learners do in different spaces throughout the school?
+    - What kinds of subjects would be taught there? Are their teachers and students or some other set of roles?
+    - Do the roles ever change?
+    - What are the bathrooms like? How about the furniture? Are there laboratories? Playgrounds? Napping rooms?
+    - Consider the kinds of relationships you would like this school to hold & how people could relate to each other differently based on the proximity and content of their learning?
+    - Consider how you would like to share space with others in this school. How are different parts of your school accessed and by whom?
+    - Are there grades in this school? How are people separated into groups if ever? What are the taxonomies? For ex: traditional school systems will group people by categories such as age, class, geography, "ability", "behavior", and able-bodied-ness. 
+    - Consider the ephemeral aspects of the school as much as the physical aspects.
+    - In this school, how do you communicate and care for each other?
+    - What are the emotional qualities of the spaces in this school?
+    - What is the weather like around this school?
+    - Consider the many forms it could take,
+        - A memory palace with many rooms. In each room a memory of something that someone learned in this room by seeing the memory of the last person in this room.
+        - A forest of learning folders where each participant is a tree and insect files carry information back and forth between them.
+        - A school where each room is devoted to something you would like to learn collectively with those you share a that room with.
+        - A multi-generational interconnected courtyard boarding house with rooms for climbing, rooms for growing, rooms for cooking, rooms for singing.
+        
 ### Helpful Codes
 
 👛 if you have a Mac computer and are feeling fancy, i recommend downloading Iterm
