@@ -1,14 +1,14 @@
 # P2P Folder Poetry: An introduction to Re-introducing Yourself to Computers
 ### 🌿🕸[Download the Garden of Forking Paths and move it to your home folder](https://melanie-hoff.com/folder-poetry/sfpc-2019/garden-of-forking-paths.zip)
-- [Slides](https://docs.google.com/presentation/d/1z0q_4SmfasCEsMocNmCdvosPGf_xZX5PMxuimWRP4uA/edit#slide=id.g6d44d3a07e_0_20)
-- [Prompt](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#1-prompt-folder-poem-as-school)
+- [☎️ P2P Address book :0)](https://docs.google.com/spreadsheets/d/1nDLIUVbKFc3XNALA7Uf65ra-sH4AsPewWWajt2ltxMY/edit?usp=sharing)
 - [Install Node & Bash](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#2-install-node--dat)
 - [Rules of p2p Folder Poetry](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#-your-folder-poetry-structure)
 - [Bash commands](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#-bash--terminal-commands)
 - [Editing your Bash Profile](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#editing-your-bash_profile)
+- [Slides](https://docs.google.com/presentation/d/1z0q_4SmfasCEsMocNmCdvosPGf_xZX5PMxuimWRP4uA/edit#slide=id.g6d44d3a07e_0_20)
+- [Prompt]()
 - [Variables & Functions](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#variables--functions)
 - [Helpful Supplemental Codes](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#helpful-codes)
-- [P2P Address book :0)](https://docs.google.com/spreadsheets/d/1nDLIUVbKFc3XNALA7Uf65ra-sH4AsPewWWajt2ltxMY/edit?usp=sharing)
 
 ![](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/folder-laser-black-wide.png)
 
