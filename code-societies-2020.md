@@ -9,7 +9,7 @@
 - [Editing your Bash Profile](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#editing-your-bash_profile)
 - [Variables & Functions](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#variables--functions)
 - [Helpful Supplemental Codes](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/test.md#helpful-codes)
-- 🌿🕸[Download the Garden of Forking Paths and move it to your home folder](https://melanie-hoff.com/folder-poetry/sfpc-2019/garden-of-forking-paths.zip)
+- [Download the Garden of Forking Paths and move it to your home folder](https://melanie-hoff.com/folder-poetry/sfpc-2019/garden-of-forking-paths.zip)
 
 
 ![](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/folder-laser-black-wide.png)
